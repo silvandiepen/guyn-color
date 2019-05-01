@@ -1,5 +1,5 @@
 $guyn-colors: (
   <% var i=0; Object.keys(colors).forEach(function(color){ i++; %>
-    "<%= color.charAt(0).toUpperCase() %><%= color.slice(1) %>": "<%= colors[color] %>"<% if (i < Object.keys(colors).length){ %>,<% } %> 
+    "<%= color.charAt(0).toUpperCase() %><%= color.slice(1).replace('-','') %>": "<%= colors[color] %>"<% if (i < Object.keys(colors).length){ %>,<% } %> 
   <% }); %>
 );
