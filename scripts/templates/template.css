@@ -1,0 +1,5 @@
+:root{
+  <% var i=0; Object.keys(colors).forEach(function(color){ i++; %>
+	--guyn-<%= color %>: <%= colors[color] %>;
+	<% }); %>
+}
