@@ -1,9 +1,10 @@
 const fs = require('fs');
 const ejs = require('ejs');
 const prettier = require('prettier');
+const helpers = require('./helpers.js');
 
 const colors = require('../src/colors.json');
-const files = ['css', 'js', 'less', 'scss', 'sass', 'json'];
+const files = ['css', 'js', 'less', 'scss', 'json'];
 
 files.forEach(async (fileType) => {
 	// File path to template
@@ -12,7 +13,7 @@ files.forEach(async (fileType) => {
 	// Get the template
 	await fs.readFile(templateFile, function(err, data) {
 		if (err) return console.error(err);
-		let generatedFile = ejs.render(data.toString(), colors);
+		let generatedFile = ejs.render(data.toString(), { _ : helpers, colors: colors.colors });
 
 		let parser = fileType;
 		switch (fileType) {
@@ -21,7 +22,6 @@ files.forEach(async (fileType) => {
 				break;
 			case 'css':
 			case 'less':
-			case 'sass':
 			case 'scss':
 				parser = 'css';
 				break;
