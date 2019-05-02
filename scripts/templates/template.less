@@ -3,3 +3,7 @@
     <%= _.PascalCase(color) %>: <%= colors[color] %>;
   <% }); %>
 	}
+	<% var i=0; Object.keys(colors).forEach(function(color){ i++; %>
+		@guyn-<%= _.PascalCase(color) %>: <%= colors[color] %>;
+		@guyn-<%= color  %>: <%= colors[color] %>;
+	<% }); %>
