@@ -9,9 +9,12 @@
 		"purple-dark": "#9710B2",
 		"purple": "#B223CF",
 		"purple-light": "#D046EB",
-		"roze-dark": "#DA4C7E",
-		"roze": "#E9709B",
-		"roze-light": "#FE95BA",
+		"magenta-dark": "#CB0C7A",
+		"magenta": "#E22D95",
+		"magenta-light": "#EE63B3",
+		"pink-dark": "#DA4C7E",
+		"pink": "#E9709B",
+		"pink-light": "#FE95BA",
 		"red-dark": "#BF1A43",
 		"red": "#EF194F",
 		"red-light": "#FE688E",
@@ -41,6 +44,8 @@
 		"brown-light": "#C69F7D",
 		"beige-dark": "#EEDEB8",
 		"beige": "#F8ECD1",
-		"beige-light": "#FFF9EB"
+		"beige-light": "#FFF9EB",
+		"white": "#ffffff",
+		"black": "#111111"
 	}
 }

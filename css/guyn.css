@@ -17,11 +17,17 @@
 
   --guyn-purple-light: #d046eb;
 
-  --guyn-roze-dark: #da4c7e;
+  --guyn-magenta-dark: #cb0c7a;
 
-  --guyn-roze: #e9709b;
+  --guyn-magenta: #e22d95;
 
-  --guyn-roze-light: #fe95ba;
+  --guyn-magenta-light: #ee63b3;
+
+  --guyn-pink-dark: #da4c7e;
+
+  --guyn-pink: #e9709b;
+
+  --guyn-pink-light: #fe95ba;
 
   --guyn-red-dark: #bf1a43;
 
@@ -82,4 +88,8 @@
   --guyn-beige: #f8ecd1;
 
   --guyn-beige-light: #fff9eb;
+
+  --guyn-white: #ffffff;
+
+  --guyn-black: #111111;
 }

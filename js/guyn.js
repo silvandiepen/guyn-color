@@ -17,11 +17,17 @@ const guyn = {
 
   PurpleLight: "#D046EB",
 
-  RozeDark: "#DA4C7E",
+  MagentaDark: "#CB0C7A",
 
-  Roze: "#E9709B",
+  Magenta: "#E22D95",
 
-  RozeLight: "#FE95BA",
+  MagentaLight: "#EE63B3",
+
+  PinkDark: "#DA4C7E",
+
+  Pink: "#E9709B",
+
+  PinkLight: "#FE95BA",
 
   RedDark: "#BF1A43",
 
@@ -81,7 +87,11 @@ const guyn = {
 
   Beige: "#F8ECD1",
 
-  BeigeLight: "#FFF9EB"
+  BeigeLight: "#FFF9EB",
+
+  White: "#ffffff",
+
+  Black: "#111111"
 };
 
 export default guyn;

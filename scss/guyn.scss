@@ -8,9 +8,12 @@ $guyn-colors: (
   "PurpleDark": #9710b2,
   "Purple": #b223cf,
   "PurpleLight": #d046eb,
-  "RozeDark": #da4c7e,
-  "Roze": #e9709b,
-  "RozeLight": #fe95ba,
+  "MagentaDark": #cb0c7a,
+  "Magenta": #e22d95,
+  "MagentaLight": #ee63b3,
+  "PinkDark": #da4c7e,
+  "Pink": #e9709b,
+  "PinkLight": #fe95ba,
   "RedDark": #bf1a43,
   "Red": #ef194f,
   "RedLight": #fe688e,
@@ -40,7 +43,9 @@ $guyn-colors: (
   "BrownLight": #c69f7d,
   "BeigeDark": #eedeb8,
   "Beige": #f8ecd1,
-  "BeigeLight": #fff9eb
+  "BeigeLight": #fff9eb,
+  "White": #ffffff,
+  "Black": #111111
 );
 
 $guyn-GrayDark: #3d4348;
@@ -70,14 +75,23 @@ $guyn-purple: #b223cf;
 $guyn-PurpleLight: #d046eb;
 $guyn-purple-light: #d046eb;
 
-$guyn-RozeDark: #da4c7e;
-$guyn-roze-dark: #da4c7e;
+$guyn-MagentaDark: #cb0c7a;
+$guyn-magenta-dark: #cb0c7a;
 
-$guyn-Roze: #e9709b;
-$guyn-roze: #e9709b;
+$guyn-Magenta: #e22d95;
+$guyn-magenta: #e22d95;
 
-$guyn-RozeLight: #fe95ba;
-$guyn-roze-light: #fe95ba;
+$guyn-MagentaLight: #ee63b3;
+$guyn-magenta-light: #ee63b3;
+
+$guyn-PinkDark: #da4c7e;
+$guyn-pink-dark: #da4c7e;
+
+$guyn-Pink: #e9709b;
+$guyn-pink: #e9709b;
+
+$guyn-PinkLight: #fe95ba;
+$guyn-pink-light: #fe95ba;
 
 $guyn-RedDark: #bf1a43;
 $guyn-red-dark: #bf1a43;
@@ -168,3 +182,9 @@ $guyn-beige: #f8ecd1;
 
 $guyn-BeigeLight: #fff9eb;
 $guyn-beige-light: #fff9eb;
+
+$guyn-White: #ffffff;
+$guyn-white: #ffffff;
+
+$guyn-Black: #111111;
+$guyn-black: #111111;
