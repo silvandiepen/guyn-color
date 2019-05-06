@@ -2,12 +2,18 @@ $guyn-colors: (
   "GrayDark": #3d4348,
   "Gray": #5c6368,
   "GrayLight": #8c9398,
+  "IceDark": #a6b3bd,
+  "Ice": #bec8d0,
+  "IceLight": #dde5eb,
   "DarkDark": #1c011b,
   "Dark": #2e192d,
   "DarkLight": #664e66,
+  "PlumDark": #550764,
+  "Plum": #390344,
+  "PlumLight": #550764,
   "PurpleDark": #9710b2,
   "Purple": #b223cf,
-  "PurpleLight": #d046eb,
+  "PurpleLight": #770d8d,
   "MagentaDark": #cb0c7a,
   "Magenta": #e22d95,
   "MagentaLight": #ee63b3,
@@ -23,15 +29,24 @@ $guyn-colors: (
   "YellowDark": #ffc624,
   "Yellow": #ffd764,
   "YellowLight": #ffedad,
+  "LimeDark": #98f42d,
+  "Lime": #98f42d,
+  "LimeLight": #b1ff57,
+  "GreenDark": #7cda0f,
+  "Green": #6ab933,
+  "GreenLight": #8ae24c,
   "ArmyDark": #678752,
   "Army": #89a974,
   "ArmyLight": #b8d3a5,
-  "GreenDark": #46c162,
-  "Green": #62f689,
-  "GreenLight": #93ffb6,
-  "TurquoiseDark": #21c9b3,
-  "Turquoise": #18ecd0,
-  "TurquoiseLight": #53fce6,
+  "TurqouiseDark": #46c162,
+  "Turqouise": #62f689,
+  "TurqouiseLight": #93ffb6,
+  "CyanDark": #21c9b3,
+  "Cyan": #18ecd0,
+  "CyanLight": #53fce6,
+  "CloudDark": #82dfff,
+  "Cloud": #aae9ff,
+  "CloudLight": #cef2ff,
   "SkyblueDark": #25a7e2,
   "Skyblue": #49bdf2,
   "SkyblueLight": #65ccfa,
@@ -57,6 +72,15 @@ $guyn-gray: #5c6368;
 $guyn-GrayLight: #8c9398;
 $guyn-gray-light: #8c9398;
 
+$guyn-IceDark: #a6b3bd;
+$guyn-ice-dark: #a6b3bd;
+
+$guyn-Ice: #bec8d0;
+$guyn-ice: #bec8d0;
+
+$guyn-IceLight: #dde5eb;
+$guyn-ice-light: #dde5eb;
+
 $guyn-DarkDark: #1c011b;
 $guyn-dark-dark: #1c011b;
 
@@ -66,14 +90,23 @@ $guyn-dark: #2e192d;
 $guyn-DarkLight: #664e66;
 $guyn-dark-light: #664e66;
 
+$guyn-PlumDark: #550764;
+$guyn-plum-dark: #550764;
+
+$guyn-Plum: #390344;
+$guyn-plum: #390344;
+
+$guyn-PlumLight: #550764;
+$guyn-plum-light: #550764;
+
 $guyn-PurpleDark: #9710b2;
 $guyn-purple-dark: #9710b2;
 
 $guyn-Purple: #b223cf;
 $guyn-purple: #b223cf;
 
-$guyn-PurpleLight: #d046eb;
-$guyn-purple-light: #d046eb;
+$guyn-PurpleLight: #770d8d;
+$guyn-purple-light: #770d8d;
 
 $guyn-MagentaDark: #cb0c7a;
 $guyn-magenta-dark: #cb0c7a;
@@ -120,6 +153,24 @@ $guyn-yellow: #ffd764;
 $guyn-YellowLight: #ffedad;
 $guyn-yellow-light: #ffedad;
 
+$guyn-LimeDark: #98f42d;
+$guyn-lime-dark: #98f42d;
+
+$guyn-Lime: #98f42d;
+$guyn-lime: #98f42d;
+
+$guyn-LimeLight: #b1ff57;
+$guyn-lime-light: #b1ff57;
+
+$guyn-GreenDark: #7cda0f;
+$guyn-green-dark: #7cda0f;
+
+$guyn-Green: #6ab933;
+$guyn-green: #6ab933;
+
+$guyn-GreenLight: #8ae24c;
+$guyn-green-light: #8ae24c;
+
 $guyn-ArmyDark: #678752;
 $guyn-army-dark: #678752;
 
@@ -129,23 +180,32 @@ $guyn-army: #89a974;
 $guyn-ArmyLight: #b8d3a5;
 $guyn-army-light: #b8d3a5;
 
-$guyn-GreenDark: #46c162;
-$guyn-green-dark: #46c162;
+$guyn-TurqouiseDark: #46c162;
+$guyn-turqouise-dark: #46c162;
 
-$guyn-Green: #62f689;
-$guyn-green: #62f689;
+$guyn-Turqouise: #62f689;
+$guyn-turqouise: #62f689;
 
-$guyn-GreenLight: #93ffb6;
-$guyn-green-light: #93ffb6;
+$guyn-TurqouiseLight: #93ffb6;
+$guyn-turqouise-light: #93ffb6;
 
-$guyn-TurquoiseDark: #21c9b3;
-$guyn-turquoise-dark: #21c9b3;
+$guyn-CyanDark: #21c9b3;
+$guyn-cyan-dark: #21c9b3;
 
-$guyn-Turquoise: #18ecd0;
-$guyn-turquoise: #18ecd0;
+$guyn-Cyan: #18ecd0;
+$guyn-cyan: #18ecd0;
 
-$guyn-TurquoiseLight: #53fce6;
-$guyn-turquoise-light: #53fce6;
+$guyn-CyanLight: #53fce6;
+$guyn-cyan-light: #53fce6;
+
+$guyn-CloudDark: #82dfff;
+$guyn-cloud-dark: #82dfff;
+
+$guyn-Cloud: #aae9ff;
+$guyn-cloud: #aae9ff;
+
+$guyn-CloudLight: #cef2ff;
+$guyn-cloud-light: #cef2ff;
 
 $guyn-SkyblueDark: #25a7e2;
 $guyn-skyblue-dark: #25a7e2;

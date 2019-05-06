@@ -5,17 +5,29 @@
 
   --guyn-gray-light: #8c9398;
 
+  --guyn-ice-dark: #a6b3bd;
+
+  --guyn-ice: #bec8d0;
+
+  --guyn-ice-light: #dde5eb;
+
   --guyn-dark-dark: #1c011b;
 
   --guyn-dark: #2e192d;
 
   --guyn-dark-light: #664e66;
 
+  --guyn-plum-dark: #550764;
+
+  --guyn-plum: #390344;
+
+  --guyn-plum-light: #550764;
+
   --guyn-purple-dark: #9710b2;
 
   --guyn-purple: #b223cf;
 
-  --guyn-purple-light: #d046eb;
+  --guyn-purple-light: #770d8d;
 
   --guyn-magenta-dark: #cb0c7a;
 
@@ -47,23 +59,41 @@
 
   --guyn-yellow-light: #ffedad;
 
+  --guyn-lime-dark: #98f42d;
+
+  --guyn-lime: #98f42d;
+
+  --guyn-lime-light: #b1ff57;
+
+  --guyn-green-dark: #7cda0f;
+
+  --guyn-green: #6ab933;
+
+  --guyn-green-light: #8ae24c;
+
   --guyn-army-dark: #678752;
 
   --guyn-army: #89a974;
 
   --guyn-army-light: #b8d3a5;
 
-  --guyn-green-dark: #46c162;
+  --guyn-turqouise-dark: #46c162;
 
-  --guyn-green: #62f689;
+  --guyn-turqouise: #62f689;
 
-  --guyn-green-light: #93ffb6;
+  --guyn-turqouise-light: #93ffb6;
 
-  --guyn-turquoise-dark: #21c9b3;
+  --guyn-cyan-dark: #21c9b3;
 
-  --guyn-turquoise: #18ecd0;
+  --guyn-cyan: #18ecd0;
 
-  --guyn-turquoise-light: #53fce6;
+  --guyn-cyan-light: #53fce6;
+
+  --guyn-cloud-dark: #82dfff;
+
+  --guyn-cloud: #aae9ff;
+
+  --guyn-cloud-light: #cef2ff;
 
   --guyn-skyblue-dark: #25a7e2;
 
