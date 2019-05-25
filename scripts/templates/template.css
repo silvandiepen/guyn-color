@@ -1,5 +1,11 @@
 :root{
-  <% var i=0; Object.keys(colors).forEach(function(color){ i++; %>
-	--guyn-<%= color %>: <%= colors[color] %>;
+  <% var i=0; Object.keys(advancedColors).forEach(function(color){ i++; %>
+		--guyn-<%= color %>: <%= advancedColors[color].hex %>;
+		--guyn-<%= color %>-hue: <%= advancedColors[color].h %>;
+		--guyn-<%= color %>-saturation: <%= advancedColors[color].s %>;
+		--guyn-<%= color %>-lightness: <%= advancedColors[color].l %>;
+		--guyn-<%= color %>-red: <%= advancedColors[color].r %>;
+		--guyn-<%= color %>-green: <%= advancedColors[color].g %>;
+		--guyn-<%= color %>-blue: <%= advancedColors[color].b %>;
 	<% }); %>
 }
