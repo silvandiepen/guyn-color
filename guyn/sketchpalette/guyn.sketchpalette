@@ -315,7 +315,7 @@
     },
 
     {
-      "name": TurqouiseDark,
+      "name": TurquoiseDark,
       "red": 0.2734375,
       "green": 0.75390625,
       "blue": 0.3828125,
@@ -323,7 +323,7 @@
     },
 
     {
-      "name": Turqouise,
+      "name": Turquoise,
       "red": 0.3828125,
       "green": 0.9609375,
       "blue": 0.53515625,
@@ -331,7 +331,7 @@
     },
 
     {
-      "name": TurqouiseLight,
+      "name": TurquoiseLight,
       "red": 0.57421875,
       "green": 0.99609375,
       "blue": 0.7109375,
