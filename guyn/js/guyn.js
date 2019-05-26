@@ -17,9 +17,9 @@ const guyn = {
 
   DarkLight: "#664E66",
 
-  PlumDark: "#550764",
+  PlumDark: "#390344",
 
-  Plum: "#390344",
+  Plum: "#550764",
 
   PlumLight: "#550764",
 
