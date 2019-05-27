@@ -2,7 +2,7 @@
   "name": "guyn",
   "version": "0.0.9",
   "description": "Guyn Colors",
-  "main": "index.js",
+  "main": "guyn/sass/guyn.scss",
   "scripts": {
     "build": "node scripts/build.js",
     "test": "test"
