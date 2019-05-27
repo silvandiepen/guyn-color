@@ -4,11 +4,20 @@ const prettier = require('prettier');
 const helpers = require('./helpers.js');
 
 const colors = require('../src/colors.json');
-const files = ['css', 'js', 'less', 'scss', 'json', 'sketchpalette'];
-
+const files = [
+	{
+		name: 'css',
+		ext: 'css'
+	},
+	{ name: 'javascript', ext: 'js' },
+	{ name: 'less', ext: 'less' },
+	{ name: 'sass', ext: 'scss' },
+	{ name: 'json', ext: 'json' },
+	{ name: 'sketch', ext: 'sketchpalette' }
+];
 
 let advancedColors = {};
-Object.keys(colors.colors).forEach((color, index)=>{
+Object.keys(colors.colors).forEach((color, index) => {
 	advancedColors[color] = {
 		...helpers.hexToRgb(colors.colors[color]),
 		...helpers.hexToHsl(colors.colors[color]),
@@ -19,15 +28,19 @@ Object.keys(colors.colors).forEach((color, index)=>{
 // console.log(advancedColors);
 files.forEach(async (fileType) => {
 	// File path to template
-	const templateFile = `scripts/templates/template.${fileType}`;
+	const templateFile = `scripts/templates/template.${fileType.ext}`;
 
 	// Get the template
 	await fs.readFile(templateFile, function(err, data) {
 		if (err) return console.error(err);
-		let generatedFile = ejs.render(data.toString(), { _ : helpers, colors: colors.colors, advancedColors: advancedColors });
+		let generatedFile = ejs.render(data.toString(), {
+			_: helpers,
+			colors: colors.colors,
+			advancedColors: advancedColors
+		});
 
-		let parser = fileType;
-		switch (fileType) {
+		let parser = fileType.ext;
+		switch (fileType.ext) {
 			case 'js':
 				parser = 'babel';
 				break;
@@ -43,10 +56,15 @@ files.forEach(async (fileType) => {
 		let formattedFile = prettier.format(generatedFile, {
 			parser: parser
 		});
-		
-		fs.writeFile(`guyn/${fileType}/guyn.${fileType}`,formattedFile,'utf8', (err)=>{
-			if (err) throw err;
-			console.log(fileType, 'file created');
-		})		
+
+		fs.writeFile(
+			`guyn/${fileType.name}/guyn.${fileType.ext}`,
+			formattedFile,
+			'utf8',
+			(err) => {
+				if (err) throw err;
+				console.log(fileType.name, 'file created');
+			}
+		);
 	});
 });
