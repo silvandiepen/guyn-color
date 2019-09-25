@@ -21,13 +21,13 @@ const guyn = {
 
   Plum: "#550764",
 
-  PlumLight: "#550764",
+  PlumLight: "#620973",
 
   PurpleDark: "#9710B2",
 
   Purple: "#B223CF",
 
-  PurpleLight: "#770D8D",
+  PurpleLight: "#c12bdf",
 
   MagentaDark: "#CB0C7A",
 
@@ -59,15 +59,15 @@ const guyn = {
 
   YellowLight: "#FFEDAD",
 
-  LimeDark: "#98F42D",
+  LimeDark: "#8DE922",
 
   Lime: "#98F42D",
 
   LimeLight: "#B1FF57",
 
-  GreenDark: "#7CDA0F",
+  GreenDark: "#6AB933",
 
-  Green: "#6AB933",
+  Green: "#7CDA0F",
 
   GreenLight: "#8AE24C",
 
@@ -106,6 +106,12 @@ const guyn = {
   Blue: "#2E71BE",
 
   BlueLight: "#518CD0",
+
+  NightblueDark: "#051425",
+
+  Nightblue: "#09203a",
+
+  NightblueLight: "#0b294a",
 
   BrownDark: "#9D5E27",
 

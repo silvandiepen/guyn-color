@@ -4,7 +4,7 @@
 	"colors": [
 		<% var i=0; Object.keys(advancedColors).forEach(function(color){ i++; %>
 			{
-				"name": <%= _.PascalCase(color) %>,
+				"name": "<%= _.PascalCase(color) %>",
 				"red": <%= (advancedColors[color].r / 256)  %>,
 				"green": <%= (advancedColors[color].g / 256) %>,
 				"blue": <%= (advancedColors[color].b / 256) %>,
