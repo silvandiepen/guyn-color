@@ -1,6 +1,6 @@
 {
   "name": "guyn",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Guyn Colors",
   "main": "guyn/sass/guyn.scss",
   "scripts": {
