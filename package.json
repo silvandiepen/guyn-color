@@ -1,21 +1,27 @@
 {
-  "name": "guyn",
-  "version": "0.0.12",
-  "description": "Guyn Colors",
-  "main": "guyn/sass/guyn.scss",
-  "scripts": {
-    "build": "node scripts/build.js",
-    "test": "test"
-  },
-  "keywords": [
-    "Colors",
-    "Palette"
-  ],
-  "author": "Sil van Diepen",
-  "license": "MIT",
-  "dependencies": {
-    "ejs": "^2.6.1",
-    "handlebars": "^4.1.2",
-    "prettier": "^1.17.0"
-  }
+	"name": "guyn",
+	"version": "0.0.12",
+	"description": "Guyn Colors",
+	"main": "guyn/sass/guyn.scss",
+	"scripts": {
+		"build": "npm run build:guyn && npm run build:css && npm run build:material && npm run build:pantone",
+		"build:guyn": "node scripts/build.js --src src/guyn.json",
+		"build:material": "node scripts/build.js --src src/material.json",
+		"build:css": "node scripts/build.js --src src/css.json",
+		"build:pantone": "npm run build:pantone:code && npm run build:pantone:name",
+		"build:pantone:code": "node scripts/build.js --src src/pantone-code.json",
+		"build:pantone:name": "node scripts/build.js --src src/pantone-name.json",
+		"test": "test"
+	},
+	"keywords": [
+		"Colors",
+		"Palette"
+	],
+	"author": "Sil van Diepen",
+	"license": "MIT",
+	"dependencies": {
+		"ejs": "^2.6.1",
+		"handlebars": "^4.1.2",
+		"prettier": "^1.17.0"
+	}
 }

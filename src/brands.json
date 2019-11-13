@@ -1,8 +1,4919 @@
 {
-  "brands": {
-    "angular": "#b52e31",
-    "react": "#00d8ff",
-    "svelte": "#ff3e00",
-    "vue": "#42b883"
-  }
+  "brands": [
+    {
+      "title": "500px",
+      "colors": ["#0099e5", "#ff4c4c", "#34bf49"],
+      "meta": {
+        "url": "https://500px.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/205"
+      }
+    },
+    {
+      "title": "About.me",
+      "colors": ["#00a98f"],
+      "meta": {
+        "url": "https://about.me/",
+        "source": "https://about.me/assets"
+      }
+    },
+    {
+      "title": "Adidas",
+      "colors": [
+        "#000000",
+        "#be0027",
+        "#cf8d2e",
+        "#e4e932",
+        "#2c9f45",
+        "#371777",
+        "#52325d",
+        "#511378"
+      ],
+      "meta": {
+        "url": "https://www.adidas.com/",
+        "source": "https://issuu.com/chrisnguyen140596/docs/adidas_branding_guideline_01_done_d"
+      }
+    },
+    {
+      "title": "Adobe",
+      "colors": [
+        "#ff0000",
+        "#fbb034",
+        "#ffdd00",
+        "#c1d82f",
+        "#00a4e4",
+        "#8a7967",
+        "#6a737b"
+      ],
+      "meta": {}
+    },
+    {
+      "title": "Adyen",
+      "colors": ["#0abf53", "#00112c"],
+      "meta": {
+        "url": "https://www.adyen.com/",
+        "source": "https://adyen.design/guidelines.html"
+      }
+    },
+    {
+      "title": "Adzuna",
+      "colors": ["#279b37"],
+      "meta": { "url": "https://www.adzuna.com/" }
+    },
+    {
+      "title": "Aer Lingus",
+      "colors": ["#008374", "#89ba16", "#fefefe"],
+      "meta": {
+        "url": "https://www.aerlingus.com/html/home.html",
+        "source": "https://issuu.com/lukaszkulakowski/docs/aerlingus_brand_identity_system_gui"
+      }
+    },
+    {
+      "title": "Aetna",
+      "colors": [
+        "#d20962",
+        "#f47721",
+        "#7ac143",
+        "#00a78e",
+        "#00bce4",
+        "#7d3f98"
+      ],
+      "meta": {
+        "url": "http://www.aetna.com",
+        "source": "http://www.aetna.com/about-aetna-insurance/assets/documents/aetna-style-guide.pdf"
+      }
+    },
+    {
+      "title": "AIESEC",
+      "colors": [
+        "#037ef3",
+        "#f85a40",
+        "#30c39e",
+        "#0a8ea0",
+        "#f48924",
+        "#ffc845",
+        "#52565e",
+        "#caccd1",
+        "#f3f4f7"
+      ],
+      "meta": {
+        "url": "https://www.aiesec.org/",
+        "source": "https://github.com/brandcolors/feedback/issues/660"
+      }
+    },
+    { "title": "Aim", "colors": ["#ffd900"], "meta": {} },
+    {
+      "title": "Airbnb",
+      "colors": ["#fd5c63"],
+      "meta": {
+        "url": "https://www.airbnb.com/",
+        "source": "https://www.airbnb.com/press/resources"
+      }
+    },
+    {
+      "title": "Airbus",
+      "colors": [
+        "#74d2e7",
+        "#48a9c5",
+        "#0085ad",
+        "#8db9ca",
+        "#4298b5",
+        "#005670",
+        "#00205b",
+        "#009f4d",
+        "#84bd00",
+        "#efdf00",
+        "#fe5000",
+        "#e4002b",
+        "#da1884",
+        "#a51890",
+        "#0077c8",
+        "#008eaa"
+      ],
+      "meta": { "url": "https://www.airbus.com/" }
+    },
+    {
+      "title": "Akamai",
+      "colors": ["#0099cc", "#ff9933"],
+      "meta": {
+        "url": "https://www.akamai.com",
+        "source": "https://github.com/brandcolors/feedback/issues/629"
+      }
+    },
+    {
+      "title": "Alcon",
+      "colors": ["#0079c1", "#49176d", "#00a0af", "#49a942"],
+      "meta": {
+        "url": "http://www.alcon.com",
+        "source": "http://www.alconbrand.com/pdf/alconbrandguide.pdf"
+      }
+    },
+    {
+      "title": "Algolia",
+      "colors": [
+        "#050f2c",
+        "#003666",
+        "#00aeff",
+        "#3369e7",
+        "#8e43e7",
+        "#b84592",
+        "#ff4f81",
+        "#ff6c5f",
+        "#ffc168",
+        "#2dde98",
+        "#1cc7d0"
+      ],
+      "meta": {
+        "url": "https://www.algolia.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/515"
+      }
+    },
+    {
+      "title": "Alibaba",
+      "colors": ["#ff6a00"],
+      "meta": { "url": "https://www.alibaba.com/" }
+    },
+    {
+      "title": "Alienware",
+      "colors": ["#0c3866", "#49c0b6", "#222", "#ce181e", "#007cc0", "#ffc20e"],
+      "meta": {
+        "url": "http://www.alienware.com/",
+        "source": "https://issuu.com/design.st.ch/docs/alienware_brand_guide_2016_pages"
+      }
+    },
+    {
+      "title": "Alphabet",
+      "colors": ["#ed1c24"],
+      "meta": {
+        "url": "https://abc.xyz/",
+        "source": "https://github.com/brandcolors/feedback/issues/333"
+      }
+    },
+    { "title": "Amazon", "colors": ["#ff9900", "#146eb4"], "meta": {} },
+    {
+      "title": "American Express",
+      "colors": ["#002663", "#4d4f53"],
+      "meta": {
+        "url": "https://www.americanexpress.com/",
+        "source": "https://network.americanexpress.com/en/globalnetwork/Images/American%20Express%20Token%20Service_Brand%20Guidelines_April%202015.pdf"
+      }
+    },
+    {
+      "title": "American Red Cross",
+      "colors": [
+        "#ed1b2e",
+        "#6d6e70",
+        "#d7d7d8",
+        "#b4a996",
+        "#ecb731",
+        "#8ec06c",
+        "#537b35",
+        "#c4dff6",
+        "#56a0d3",
+        "#0091cd",
+        "#004b79",
+        "#7f181b",
+        "#d7d7d8",
+        "#9f9fa3",
+        "#000000"
+      ],
+      "meta": {
+        "url": "http://www.redcross.org/",
+        "source": "https://github.com/brandcolors/feedback/issues/224"
+      }
+    },
+    {
+      "title": "AMP",
+      "colors": ["#1c79c0", "#0dd3ff", "#0389ff"],
+      "meta": {
+        "url": "https://www.ampproject.org/",
+        "source": "https://www.ampproject.org/static/img/brand-guidelines.pdf"
+      }
+    },
+    { "title": "Android", "colors": ["#a4c639"], "meta": {} },
+    { "title": "Angie’s List", "colors": ["#7fbb00"], "meta": {} },
+    {
+      "title": "Angular",
+      "colors": ["#b52e31", "#000000"],
+      "meta": {
+        "url": "https://angularjs.org/",
+        "source": "https://github.com/angular/angular.js/tree/master/images/logo"
+      }
+    },
+    {
+      "title": "Answers",
+      "colors": ["#136ad5", "#fb8a2e"],
+      "meta": {
+        "url": "http://www.answers.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/218"
+      }
+    },
+    { "title": "AOL", "colors": ["#ff0b00", "#00c4ff"], "meta": {} },
+    {
+      "title": "Aparat",
+      "colors": ["#ea1d5d"],
+      "meta": { "url": "https://www.aparat.com/" }
+    },
+    { "title": "Arch Linux", "colors": ["#1793d1", "#333333"], "meta": {} },
+    {
+      "title": "Arizona State University",
+      "colors": ["#990033", "#ffb310"],
+      "meta": {
+        "url": "http://www.asu.edu/",
+        "source": "https://wpcarey.asu.edu/sites/default/files/wpc-marcom-brandbook.pdf"
+      }
+    },
+    {
+      "title": "Arriva",
+      "colors": [
+        "#004d73",
+        "#00334e",
+        "#007fdb",
+        "#dbebfa",
+        "#832561",
+        "#11862f",
+        "#bfca02",
+        "#848a8c"
+      ],
+      "meta": {
+        "url": "https://www.arrivabus.co.uk/",
+        "source": "http://brandingmanual.com/arrivadk/460-corporate-colors/"
+      }
+    },
+    {
+      "title": "Arriva Danmark",
+      "colors": ["#004d73", "#00334e", "#007fbd", "#dbebfa"],
+      "meta": {
+        "url": "https://arriva.dk/",
+        "source": "http://brandingmanual.com/arrivadk/460-corporate-colors/"
+      }
+    },
+    {
+      "title": "Ars Technica",
+      "colors": ["#ff4e00", "#01cd74"],
+      "meta": { "url": "https://arstechnica.com/" }
+    },
+    {
+      "title": "Asana",
+      "colors": ["#3be8b0", "#1aafd0", "#6a67ce", "#ffb900", "#fc636b"],
+      "meta": {
+        "url": "https://asana.com/",
+        "source": "https://asana.com/styles"
+      }
+    },
+    {
+      "title": "ASKfm",
+      "colors": ["#db3552"],
+      "meta": {
+        "url": "https://ask.fm/",
+        "source": "https://about.ask.fm/news-press/"
+      }
+    },
+    {
+      "title": "Associated Press",
+      "colors": ["#ff322e"],
+      "meta": {
+        "url": "http://www.ap.org/",
+        "source": "http://www.ap.org/Images/AP-Brand-Guidelines_tcm28-5188.pdf"
+      }
+    },
+    {
+      "title": "AT&T",
+      "colors": ["#00a8e0"],
+      "meta": { "url": "http://www.att.com" }
+    },
+    {
+      "title": "Atlanta Falcons",
+      "colors": ["#000000", "#a71930", "#a5acaf"],
+      "meta": {
+        "url": "http://www.atlantafalcons.com/",
+        "source": "http://atlantafalconspartnerportal.com/assets/StyleGuide.pdf"
+      }
+    },
+    {
+      "title": "Atlantic Coast Conference",
+      "colors": ["#013ca6", "#a5a9ab"],
+      "meta": {
+        "url": "http://www.theacc.com",
+        "source": "http://theacc.co/ACCBrandStandards-pdf"
+      }
+    },
+    { "title": "Atlassian", "colors": ["#003366"], "meta": {} },
+    {
+      "title": "Atos",
+      "colors": [
+        "#0066a1",
+        "#231f20",
+        "#bfbfbf",
+        "#00b2a9",
+        "#a626aa",
+        "#6639b7",
+        "#aea400",
+        "#ff6319"
+      ],
+      "meta": { "url": "https://atos.net/" }
+    },
+    {
+      "title": "Auth0",
+      "colors": ["#16214d", "#44c7f4", "#eb5424", "#d0d2d3"],
+      "meta": {
+        "url": "https://auth0.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/190"
+      }
+    },
+    {
+      "title": "Avast",
+      "colors": ["#ff7800", "#2d364c", "#6534ac"],
+      "meta": {
+        "url": "https://www.avast.com/",
+        "source": "https://press.avast.com/hubfs/media-materials/logos-guidelines/Avast/avast-logo-manual-web.pdf?t=1511892627076"
+      }
+    },
+    {
+      "title": "Avira",
+      "colors": ["#d40000"],
+      "meta": {
+        "url": "https://www.avira.com/",
+        "source": "https://de.wikipedia.org/wiki/Avira_Antivirus#/media/File:Avira_Antivirus_Logo.svg"
+      }
+    },
+    {
+      "title": "Baidu",
+      "colors": ["#de0f17", "#2529d8"],
+      "meta": { "url": "http://www.baidu.com/" }
+    },
+    {
+      "title": "Bandcamp",
+      "colors": ["#629aa9"],
+      "meta": { "url": "http://bandcamp.com/" }
+    },
+    {
+      "title": "Barclays",
+      "colors": ["#00aeef", "#00395d"],
+      "meta": {
+        "url": "http://www.barclays.co.uk/",
+        "source": "http://ifyo.alwaysdata.net/PJ/Barclays-couleur.pdf"
+      }
+    },
+    {
+      "title": "Barnes & Noble",
+      "colors": ["#2a5934"],
+      "meta": { "url": "http://www.barnesandnoble.com/" }
+    },
+    {
+      "title": "Basecamp",
+      "colors": ["#b3dcff", "#5ecc62", "#00ad45"],
+      "meta": {
+        "url": "https://basecamp.com",
+        "source": "https://basecamp.com/about/press"
+      }
+    },
+    {
+      "title": "Beats by Dre",
+      "colors": ["#e01f3d"],
+      "meta": { "url": "https://www.beatsbydre.com/" }
+    },
+    {
+      "title": "Bebo",
+      "colors": ["#e04646"],
+      "meta": {
+        "url": "http://www.bebo.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/218"
+      }
+    },
+    { "title": "Behance", "colors": ["#1769ff"], "meta": {} },
+    {
+      "title": "Best Buy",
+      "colors": ["#003b64", "#fff200"],
+      "meta": {
+        "url": "http://www.bestbuy.com/",
+        "source": "http://bbybrandidentity.com/guidelines-bby/brand-overview/"
+      }
+    },
+    { "title": "Big Cartel", "colors": ["#a0ac48", "#70b29c"], "meta": {} },
+    {
+      "title": "Bing",
+      "colors": ["#ffb900", "#505050", "#a3a3a3"],
+      "meta": {
+        "url": "http://www.bing.com/",
+        "source": "http://www.microsoft.com/en-us/download/confirmation.aspx?id=21619"
+      }
+    },
+    { "title": "Bitbucket", "colors": ["#205081"], "meta": {} },
+    { "title": "bitly", "colors": ["#ee6123", "#61b3de"], "meta": {} },
+    {
+      "title": "Blackberry",
+      "colors": [
+        "#005387",
+        "#8cb811",
+        "#fdb813",
+        "#88aca1",
+        "#000000",
+        "#788cb6",
+        "#a1a1a4",
+        "#8f8f8c"
+      ],
+      "meta": {
+        "url": "http://blackberry.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/225"
+      }
+    },
+    {
+      "title": "Blockchain",
+      "colors": ["#123962", "#2754ba", "#00aee6", "#799eb2", "#b1d4e5"],
+      "meta": {
+        "url": "https://www.blockchain.com/",
+        "source": "https://www.blockchain.com/press/index.html"
+      }
+    },
+    { "title": "Blogger", "colors": ["#f57d00"], "meta": {} },
+    {
+      "title": "Boeing",
+      "colors": ["#0033a1"],
+      "meta": { "url": "http://www.boeing.com/" }
+    },
+    {
+      "title": "Boise State University",
+      "colors": [
+        "#09347a",
+        "#007dc3",
+        "#0169a4",
+        "#3399cc",
+        "#f1632a",
+        "#464646",
+        "#b7b7b7",
+        "#f6f6f5"
+      ],
+      "meta": {
+        "url": "https://boisestate.edu/",
+        "source": "https://brandstandards.boisestate.edu/official-colors/"
+      }
+    },
+    {
+      "title": "Bombardier",
+      "colors": ["#8996a0"],
+      "meta": { "url": "http://www.bombardier.com/" }
+    },
+    {
+      "title": "Booking.com",
+      "colors": ["#003580", "#009fe3", "#feba02", "#666", "#f2f6fa"],
+      "meta": {
+        "url": "http://www.booking.com/",
+        "source": "https://brand.booking.com/Styleguide/#page/0AFAA4FF-265A-465A-B17FA33CA481DCC4"
+      }
+    },
+    {
+      "title": "Bower",
+      "colors": [
+        "#ffcc2f",
+        "#ef5734",
+        "#00acee",
+        "#2baf2b",
+        "#543729",
+        "#cecece"
+      ],
+      "meta": {
+        "url": "http://bower.io/",
+        "source": "http://bower.io/docs/about/"
+      }
+    },
+    {
+      "title": "Box",
+      "colors": ["#0061d5"],
+      "meta": {
+        "url": "https://www.box.com/",
+        "source": "https://www.box.com/about-us/press"
+      }
+    },
+    {
+      "title": "Boy Scouts of America",
+      "colors": ["#ce1126", "#003f87"],
+      "meta": {
+        "url": "http://www.scouting.org/",
+        "source": "https://github.com/brandcolors/feedback/issues/235"
+      }
+    },
+    {
+      "title": "British Airways",
+      "colors": [
+        "#075aaa",
+        "#eb2226",
+        "#01295c",
+        "#efe9e5",
+        "#aca095",
+        "#b9cfed",
+        "#a7a9ac"
+      ],
+      "meta": {
+        "url": "http://www.britishairways.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/226"
+      }
+    },
+    {
+      "title": "BRT",
+      "colors": ["#c90f23"],
+      "meta": { "url": "https://www.brt.it/en/index.do" }
+    },
+    {
+      "title": "BT",
+      "colors": ["#d52685", "#553a99", "#6cbc35", "#fd9f3e", "#08538c"],
+      "meta": {
+        "url": "http://home.bt.com/",
+        "source": "http://www.getech.co.uk/Download/BT-Brand-Guidelines.pdf"
+      }
+    },
+    {
+      "title": "Buffer",
+      "colors": [
+        "#168eea",
+        "#ee4f4f",
+        "#fff9ea",
+        "#76b852",
+        "#323b43",
+        "#59626a",
+        "#ced7df",
+        "#eff3f6",
+        "#f4f7f9"
+      ],
+      "meta": {
+        "url": "https://bufferapp.com",
+        "source": "https://bufferapp.com/style-guide"
+      }
+    },
+    {
+      "title": "Bulma",
+      "colors": ["#00d1b2"],
+      "meta": { "url": "https://bulma.io/" }
+    },
+    {
+      "title": "Burger King",
+      "colors": ["#ec1c24", "#fdbd10", "#0066b2", "#ed7902"],
+      "meta": { "url": "http://www.bk.com/" }
+    },
+    {
+      "title": "BuzzFeed",
+      "colors": ["#ee3322"],
+      "meta": {
+        "url": "https://www.buzzfeed.com/",
+        "source": "http://solid.buzzfeed.com/colors.html"
+      }
+    },
+    {
+      "title": "Bynder",
+      "colors": ["#00aaff"],
+      "meta": {
+        "url": "https://www.getbynder.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/582"
+      }
+    },
+    {
+      "title": "Cadbury",
+      "colors": ["#472f92"],
+      "meta": {
+        "url": "https://www.cadbury.co.uk/",
+        "source": "http://www.mwtr.com/~/media/Mwtr/com/PDF/Media/brandGuidelines/CadburylogoGuidelines1.pdf"
+      }
+    },
+    {
+      "title": "Canon",
+      "colors": ["#bc0024", "#000000"],
+      "meta": {
+        "url": "https://www.usa.canon.com/cusa/home",
+        "source": "http://www.jarnoldassociates.com/docs/File/%20CiA_Identity_Guidelines.pdf"
+      }
+    },
+    {
+      "title": "Capital One",
+      "colors": ["#004977", "#d03027"],
+      "meta": {
+        "url": "https://www.capitalone.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/422"
+      }
+    },
+    { "title": "Carbonmade", "colors": ["#613854"], "meta": {} },
+    {
+      "title": "Carrefour",
+      "colors": ["#00387b", "#bb1e10", "#f67828", "#237f52"],
+      "meta": {
+        "url": "http://www.carrefour.com/",
+        "source": "http://issuu.com/logobr/docs/carrefour_brand_book"
+      }
+    },
+    {
+      "title": "Carrot",
+      "colors": ["#388ed1", "#d74e26", "#006837", "#fa9f1e", "#f7931e"],
+      "meta": {
+        "url": "https://oncarrot.com/",
+        "source": "https://oncarrot.com/branding/"
+      }
+    },
+    {
+      "title": "Cartoon Network",
+      "colors": ["#00aeef", "#ed008c", "#fff000", "#000000"],
+      "meta": { "url": "http://www.cartoonnetwork.com/" }
+    },
+    {
+      "title": "Case-Mate",
+      "colors": ["#84754e", "#a6192e", "#decba5", "#000000"],
+      "meta": {
+        "url": "http://www.case-mate.com/",
+        "source": "http://issuu.com/case-mate/docs/brandbooksinglepages"
+      }
+    },
+    {
+      "title": "Change.org",
+      "colors": ["#ec2c22"],
+      "meta": {
+        "url": "https://www.change.org/",
+        "source": "https://www.dropbox.com/sh/zdanrngyfdmkktp/c3v5ccF_ps"
+      }
+    },
+    {
+      "title": "Channel 4",
+      "colors": [
+        "#2e1f54",
+        "#52057f",
+        "#bf033b",
+        "#f00a36",
+        "#ed3b21",
+        "#ff6908",
+        "#ffc719",
+        "#598c14",
+        "#335238",
+        "#4a8594",
+        "#051736",
+        "#000000",
+        "#706357",
+        "#b0a696",
+        "#dbe0e3",
+        "#dbeede"
+      ],
+      "meta": {
+        "url": "http://www.channel4.com/",
+        "source": "http://www.channel4.com/about_c4/styleguide/downloads/C4StyleGuide1.1.pdf"
+      }
+    },
+    {
+      "title": "charity: water",
+      "colors": ["#ffc907", "#2e9df7", "#231f20"],
+      "meta": { "url": "http://www.charitywater.org/" }
+    },
+    { "title": "Cheddar", "colors": ["#ff7243"], "meta": {} },
+    {
+      "title": "Clas Ohlson",
+      "colors": ["#60afdc"],
+      "meta": { "url": "https://www.clasohlson.com/" }
+    },
+    {
+      "title": "Clemson University",
+      "colors": [
+        "#f66733",
+        "#522d80",
+        "#d4c99e",
+        "#685c53",
+        "#a25016",
+        "#562e19",
+        "#86898c",
+        "#f9e498",
+        "#566127",
+        "#3a4958",
+        "#b5c327",
+        "#109dc0"
+      ],
+      "meta": {
+        "url": "http://www.clemson.edu/",
+        "source": "https://www.clemson.edu/brand/guide/color.html"
+      }
+    },
+    {
+      "title": "Cloob",
+      "colors": ["#213e97", "#ffac25", "#d0002c", "#ff4816", "#ff4816"],
+      "meta": {
+        "url": "http://www.cloob.com/",
+        "source": "http://www.cloob.com/logo"
+      }
+    },
+    {
+      "title": "Cloudflare",
+      "colors": ["#f38020", "#faae40", "#404041"],
+      "meta": {
+        "url": "https://www.cloudflare.com/",
+        "source": "https://www.cloudflare.com/logo/"
+      }
+    },
+    {
+      "title": "CNN",
+      "colors": ["#cc0000", "#000000", "#282828", "#464646"],
+      "meta": {
+        "url": "https://www.cnn.com",
+        "source": "https://developer.cnn.com/files/Logo_Usage_Guide_JANUARY2015.pdf"
+      }
+    },
+    { "title": "Coca-Cola", "colors": ["#ed1c16"], "meta": {} },
+    { "title": "Code School", "colors": ["#616f67", "#c68143"], "meta": {} },
+    {
+      "title": "Codecademy",
+      "colors": ["#f65a5b", "#204056"],
+      "meta": { "url": "http://www.codecademy.com/" }
+    },
+    {
+      "title": "CodePen",
+      "colors": [
+        "#0ebeff",
+        "#47cf73",
+        "#ae63e4",
+        "#fcd000",
+        "#ff3c41",
+        "#76daff"
+      ],
+      "meta": {
+        "url": "http://codepen.io/",
+        "source": "http://codepen.io/guide/"
+      }
+    },
+    {
+      "title": "Connexxion",
+      "colors": ["#d2ea32", "#016773"],
+      "meta": { "url": "http://www.connexxion.nl/" }
+    },
+    {
+      "title": "Constant Contact",
+      "colors": ["#439fd3", "#f6b128"],
+      "meta": { "url": "https://www.constantcontact.com/" }
+    },
+    {
+      "title": "Continental AG",
+      "colors": [
+        "#ffa500",
+        "#00a5dc",
+        "#004eaf",
+        "#2db928",
+        "#057855",
+        "#ff2d37",
+        "#000000",
+        "#737373",
+        "#969696",
+        "#cdcdcd",
+        "#f0f0f0"
+      ],
+      "meta": {
+        "url": "http://www.conti-online.com/",
+        "source": "http://www.designtagebuch.de/cd-manuals/Continental_Corporate_Design.pdf"
+      }
+    },
+    {
+      "title": "Courtyard",
+      "colors": ["#689550", "#85c446", "#c0de9e", "#b9dca4"],
+      "meta": {
+        "url": "http://courtyard.marriott.com/",
+        "source": "http://logos.concordhotels.com/logos/MARRIOTT/COURTYARD/CourtyardColors.pdf"
+      }
+    },
+    {
+      "title": "Craft CMS",
+      "colors": ["#da5a47"],
+      "meta": {
+        "url": "http://buildwithcraft.com/resources",
+        "source": "http://buildwithcraft.com/"
+      }
+    },
+    {
+      "title": "Creative Commons",
+      "colors": [
+        "#b62b6e",
+        "#9628c6",
+        "#4374b7",
+        "#abb8af",
+        "#98c807",
+        "#b1a24a",
+        "#edd812",
+        "#ef9421",
+        "#d13814"
+      ],
+      "meta": {
+        "url": "https://creativecommons.org/",
+        "source": "https://wiki.creativecommons.org/wiki/Colors"
+      }
+    },
+    { "title": "Creative Market", "colors": ["#8ba753"], "meta": {} },
+    {
+      "title": "Crowdin",
+      "colors": ["#30660f", "#b8cc1c"],
+      "meta": {
+        "url": "https://crowdin.com/",
+        "source": "https://crowdin.com/page/media-kit"
+      }
+    },
+    {
+      "title": "Crowne Plaza",
+      "colors": [
+        "#830051",
+        "#cf0072",
+        "#d9e506",
+        "#ff7900",
+        "#00c6d7",
+        "#766a65"
+      ],
+      "meta": {
+        "url": "http://www.ihg.com/crowneplaza",
+        "source": "http://logos.concordhotels.com/logos/IHG/CROWNE%20PLAZA/CrowneColors.pdf"
+      }
+    },
+    {
+      "title": "CrunchBase",
+      "colors": ["#2292a7"],
+      "meta": {
+        "url": "https://www.crunchbase.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/218"
+      }
+    },
+    {
+      "title": "Culver’s",
+      "colors": ["#005696"],
+      "meta": { "url": "http://www.culvers.com/" }
+    },
+    {
+      "title": "Cunard",
+      "colors": ["#1d1d1b", "#ae9a64", "#e42313", "#8b8c8d"],
+      "meta": {
+        "url": "http://www.cunard.com/",
+        "source": "http://www.cunardguidelines.com/downloads/Cunard_Guidelines_USA.pdf"
+      }
+    },
+    {
+      "title": "CVS",
+      "colors": ["#cc0000"],
+      "meta": { "url": "http://www.cvs.com/" }
+    },
+    {
+      "title": "Dailymotion",
+      "colors": ["#00aaff", "#00d2f3"],
+      "meta": {
+        "url": "http://www.dailymotion.com/",
+        "source": "https://press.dailymotion.com/wp-content/themes/press-ui/images/logo.svg"
+      }
+    },
+    {
+      "title": "Daimler",
+      "colors": ["#263f6a", "#182b45", "#6b0f24", "#193725", "#606061"],
+      "meta": {
+        "url": "https://www.daimler.com/",
+        "source": "https://designnavigator.daimler.com/colorcodes"
+      }
+    },
+    {
+      "title": "Datadog",
+      "colors": ["#774aa4"],
+      "meta": {
+        "url": "https://www.datadoghq.com/",
+        "source": "https://www.datadoghq.com/about/press/resources/"
+      }
+    },
+    {
+      "title": "Dealhack",
+      "colors": ["#095280", "#00a1f1"],
+      "meta": { "url": "https://dealhack.com/" }
+    },
+    {
+      "title": "Debian",
+      "colors": ["#a80030"],
+      "meta": {
+        "url": "https://www.debian.org/",
+        "source": "https://www.debian.org/logos/"
+      }
+    },
+    {
+      "title": "Deezer",
+      "colors": [
+        "#ff0000",
+        "#ffed00",
+        "#ff0092",
+        "#c2ff00",
+        "#00c7f2",
+        "#c1f1fc",
+        "#ebffac",
+        "#ffc2e5",
+        "#ffaaaa"
+      ],
+      "meta": {
+        "url": "https://www.deezer.com/",
+        "source": "https://www.deezer.com/us/company/press"
+      }
+    },
+    {
+      "title": "Delectable",
+      "colors": [
+        "#334858",
+        "#cd595a",
+        "#94938f",
+        "#a3a7a6",
+        "#dbc5b0",
+        "#f8dfc2",
+        "#f9ebdf"
+      ],
+      "meta": { "url": "https://delectable.com/" }
+    },
+    {
+      "title": "Delicious",
+      "colors": ["#3399ff", "#222222", "#eeeeee"],
+      "meta": {}
+    },
+    {
+      "title": "Deliveroo",
+      "colors": ["#00c1b2"],
+      "meta": {
+        "url": "https://deliveroo.co.uk",
+        "source": "https://deliveroo.design"
+      }
+    },
+    {
+      "title": "Dell",
+      "colors": [
+        "#0085c3",
+        "#7ab800",
+        "#f2af00",
+        "#dc5034",
+        "#ce1126",
+        "#b7295a",
+        "#6e2585",
+        "#71c6c1",
+        "#5482ab",
+        "#009bbb",
+        "#444444",
+        "#eeeeee"
+      ],
+      "meta": {}
+    },
+    {
+      "title": "Delta Airlines",
+      "colors": ["#c8102e", "#862633", "#003a70"],
+      "meta": {
+        "url": "https://www.delta.com/",
+        "source": "http://hansstol.totaldesign.nl/en/delta.html"
+      }
+    },
+    {
+      "title": "Dental Plans",
+      "colors": ["#f99104", "#00b7c9"],
+      "meta": { "url": "http://www.dentalplans.com/" }
+    },
+    { "title": "Designer News", "colors": ["#2d72d9"], "meta": {} },
+    { "title": "Designmoo", "colors": ["#e64b50", "#dbc65d"], "meta": {} },
+    {
+      "title": "Deutsche Bahn",
+      "colors": ["#ff0000"],
+      "meta": { "url": "http://www.deutschebahn.com/" }
+    },
+    {
+      "title": "DeviantArt",
+      "colors": ["#05cc47", "#4dc47d", "#181a1b"],
+      "meta": {
+        "url": "http://www.deviantart.com/",
+        "source": "http://www.movingbrands.com/work/deviantart"
+      }
+    },
+    { "title": "Devour", "colors": ["#ff0000"], "meta": {} },
+    { "title": "DEWALT", "colors": ["#febd17"], "meta": {} },
+    {
+      "title": "DHL",
+      "colors": ["#ba0c2f", "#ffcd00", "#c9c9c9"],
+      "meta": {
+        "url": "http://www.dhl.com/",
+        "source": "http://hansstol.totaldesign.nl/en/dhl.html"
+      }
+    },
+    {
+      "title": "Diebold",
+      "colors": [
+        "#007dc3",
+        "#003f69",
+        "#954010",
+        "#445c6e",
+        "#005238",
+        "#97824b"
+      ],
+      "meta": {
+        "url": "http://www.diebold.com/",
+        "source": "http://www.tomsieron.com/wit/pin/assets/Diebold.pdf"
+      }
+    },
+    {
+      "title": "Digg",
+      "colors": ["#005be2", "#000000"],
+      "meta": { "url": "http://digg.com/" }
+    },
+    {
+      "title": "Digital Ocean",
+      "colors": ["#008bcf"],
+      "meta": {
+        "url": "https://www.digitalocean.com/",
+        "source": "https://www.digitalocean.com/company/logos-and-badges/"
+      }
+    },
+    {
+      "title": "Dindr",
+      "colors": [
+        "#fdb94e",
+        "#f9a852",
+        "#f69653",
+        "#f38654",
+        "#f07654",
+        "#ed6856",
+        "#ef5956",
+        "#ee4c58",
+        "#56c1ab",
+        "#6a6b6a"
+      ],
+      "meta": { "url": "http://dindrapp.com/" }
+    },
+    {
+      "title": "Direct Energy",
+      "colors": ["#f05d21", "#2c5770", "#0f723a", "#c7c8ca", "#666666"],
+      "meta": { "url": "https://www.directenergy.com/" }
+    },
+    {
+      "title": "DIRECTV",
+      "colors": ["#00a6d6", "#00629b", "#003865"],
+      "meta": {
+        "url": "http://www.directv.com/",
+        "source": "http://perfectvoice.perfect-10.tv/pdf/2014_DIRECTV_BrandBookB.pdf"
+      }
+    },
+    {
+      "title": "Discogs",
+      "colors": ["#000000", "#333333", "#f5df2e"],
+      "meta": {
+        "url": "https://www.discogs.com/",
+        "source": "https://www.discogs.com/brand"
+      }
+    },
+    {
+      "title": "Discord",
+      "colors": ["#7289da", "#99aab5", "#2c2f33", "#23272a"],
+      "meta": {
+        "url": "https://discordapp.com/",
+        "source": "https://discordapp.com/branding"
+      }
+    },
+    {
+      "title": "DISH Network",
+      "colors": ["#ec1944"],
+      "meta": { "url": "http://www.dish.com/" }
+    },
+    {
+      "title": "Disney XD",
+      "colors": [
+        "#0af167",
+        "#ee70a6",
+        "#520099",
+        "#39eafd",
+        "#0d0735",
+        "#f5f5f5"
+      ],
+      "meta": {
+        "url": "http://disneyxd.disney.com/",
+        "source": "https://www.behance.net/gallery/31381771/Disney-XD-Worldwide-Rebrand"
+      }
+    },
+    { "title": "Disqus", "colors": ["#2e9fff"], "meta": {} },
+    { "title": "Django", "colors": ["#092e20"], "meta": {} },
+    {
+      "title": "Docker",
+      "colors": ["#0db7ed", "#384d54"],
+      "meta": {
+        "url": "https://www.docker.com/",
+        "source": "https://www.docker.com/news-and-press"
+      }
+    },
+    {
+      "title": "Domino’s",
+      "colors": ["#0b648f", "#e21737"],
+      "meta": { "url": "https://dominos.com/" }
+    },
+    {
+      "title": "DOW",
+      "colors": [
+        "#e80033",
+        "#fdbb30",
+        "#ed8b00",
+        "#f15d22",
+        "#bf0d3e",
+        "#910048",
+        "#d0006f"
+      ],
+      "meta": {
+        "url": "http://www.dow.com/",
+        "source": "http://storage.dow.com.edgesuite.net/dow.com/company/corpid/Dow-Visual%20Identity%20Summary-dow.com_7-21-14.pdf"
+      }
+    },
+    {
+      "title": "Dribbble",
+      "colors": [
+        "#444444",
+        "#ea4c89",
+        "#8aba56",
+        "#ff8833",
+        "#00b6e3",
+        "#9ba5a8"
+      ],
+      "meta": {}
+    },
+    {
+      "title": "Dropbox",
+      "colors": ["#007ee5", "#7b8994", "#47525d", "#3d464d"],
+      "meta": {}
+    },
+    {
+      "title": "Droplr",
+      "colors": ["#5654a4"],
+      "meta": {
+        "url": "http://droplr.com/",
+        "source": "http://droplr.com/press"
+      }
+    },
+    {
+      "title": "Drupal",
+      "colors": ["#0077c0", "#81ceff", "#00598e"],
+      "meta": {}
+    },
+    {
+      "title": "Duke University",
+      "colors": ["#001a57", "#003366"],
+      "meta": {
+        "url": "https://www.duke.edu/",
+        "source": "https://styleguide.duke.edu/color-palette/"
+      }
+    },
+    {
+      "title": "Dunked",
+      "colors": ["#2da9d7", "#212a3e"],
+      "meta": {
+        "url": "http://dunked.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/264"
+      }
+    },
+    {
+      "title": "Duolingo",
+      "colors": [
+        "#7ac70c",
+        "#8ee000",
+        "#faa918",
+        "#ffc715",
+        "#d33131",
+        "#e53838",
+        "#1cb0f6",
+        "#14d4f4",
+        "#8549ba",
+        "#a560e8",
+        "#4c4c4c",
+        "#6f6f6f",
+        "#cfcfcf",
+        "#f0f0f0",
+        "#bff199",
+        "#f7c8c9"
+      ],
+      "meta": {
+        "url": "https://www.duolingo.com/",
+        "source": "https://www.duolingo.com/design/"
+      }
+    },
+    {
+      "title": "Dwolla",
+      "colors": ["#ff7404"],
+      "meta": {
+        "url": "https://www.dwolla.com/",
+        "source": "https://www.dwolla.com/press"
+      }
+    },
+    {
+      "title": "E*TRADE",
+      "colors": ["#6633cc", "#99cc00"],
+      "meta": { "url": "https://etrade.com/" }
+    },
+    {
+      "title": "E4",
+      "colors": ["#6d1d7c"],
+      "meta": {
+        "url": "http://www.channel4.com/e4/",
+        "source": "https://issuu.com/janjaneczek/docs/e4-brand-guidelines"
+      }
+    },
+    {
+      "title": "Easy Jet",
+      "colors": ["#ff6600", "#000000", "#58595b"],
+      "meta": {
+        "url": "http://www.easyjet.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/227"
+      }
+    },
+    {
+      "title": "eBay",
+      "colors": ["#e53238", "#0064d2", "#f5af02", "#86b817"],
+      "meta": {}
+    },
+    {
+      "title": "El Al",
+      "colors": ["#131137", "#918978"],
+      "meta": { "url": "http://www.elal.com/" }
+    },
+    {
+      "title": "Elance",
+      "colors": ["#0d69af"],
+      "meta": { "url": "https://www.elance.com/" }
+    },
+    {
+      "title": "Ello",
+      "colors": ["#000000"],
+      "meta": { "source": "https://ello.co/" }
+    },
+    {
+      "title": "Ember",
+      "colors": ["#f23819"],
+      "meta": { "source": "http://emberjs.com/" }
+    },
+    {
+      "title": "Emma",
+      "colors": ["#314855", "#5cc3e8", "#ffdb00", "#79ceb8", "#e95f5c"],
+      "meta": {
+        "url": "http://myemma.com/",
+        "source": "http://myemma.com/newsroom/logo"
+      }
+    },
+    {
+      "title": "Endomundo",
+      "colors": ["#87aa14"],
+      "meta": { "url": "https://www.endomondo.com/" }
+    },
+    { "title": "Engadget", "colors": ["#40b3ff"], "meta": {} },
+    { "title": "Envato", "colors": ["#82b541"], "meta": {} },
+    {
+      "title": "EPAM",
+      "colors": ["#39c2d7", "#a3c644", "#464547", "#b22746", "#8e244d"],
+      "meta": {
+        "url": "https://www.epam.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/611"
+      }
+    },
+    {
+      "title": "Epictions",
+      "colors": ["#ff2052", "#e6e6e6", "#404040", "#01b5dd", "#b0db64"],
+      "meta": { "url": "http://www.epictions.com/" }
+    },
+    {
+      "title": "Ericsson",
+      "colors": ["#002561"],
+      "meta": { "url": "http://www.ericsson.com" }
+    },
+    {
+      "title": "ESL",
+      "colors": ["#0d9ddb", "#48b8e7", "#efecea", "#2c2b2b"],
+      "meta": {
+        "url": "http://www.turtle-entertainment.com/",
+        "source": "http://www.turtle-entertainment.com/press/"
+      }
+    },
+    { "title": "ESPN", "colors": ["#ff0033"], "meta": {} },
+    {
+      "title": "Estimote",
+      "colors": [
+        "#6a9c84",
+        "#790f59",
+        "#373b9c",
+        "#f784b6",
+        "#39b7dd",
+        "#ccc900"
+      ],
+      "meta": {
+        "url": "https://estimote.com/",
+        "source": "https://estimote.com/press-kit/"
+      }
+    },
+    { "title": "Etsy", "colors": ["#d5641c"], "meta": {} },
+    {
+      "title": "Evaneos",
+      "colors": ["#33cc99", "#4ba6f5", "#fdca30", "#f79400", "#f34235"],
+      "meta": {
+        "url": "http://www.evaneos.com/",
+        "source": "http://static.evaneos.com/design/index.html"
+      }
+    },
+    {
+      "title": "Eventbrite",
+      "colors": ["#ff8000"],
+      "meta": {
+        "url": "https://www.eventbrite.com/",
+        "source": "https://www.eventbrite.com/press/"
+      }
+    },
+    {
+      "title": "Evernote",
+      "colors": [
+        "#2dbe60",
+        "#7b868a",
+        "#2facb2",
+        "#166a8f",
+        "#3b4446",
+        "#525e61",
+        "#7b868a",
+        "#aeb6b8",
+        "#d7dcdd",
+        "#eff2f3"
+      ],
+      "meta": {
+        "url": "https://evernote.com/",
+        "source": "https://evernote.com/brand/color-palette/"
+      }
+    },
+    {
+      "title": "ExecuCar",
+      "colors": ["#203143", "#da9a39"],
+      "meta": {
+        "url": "https://www.execucar.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/599"
+      }
+    },
+    {
+      "title": "ezTalks",
+      "colors": ["#00a0e9"],
+      "meta": { "url": "https://www.eztalks.com/" }
+    },
+    { "title": "Fab.com", "colors": ["#dd0017", "#000000"], "meta": {} },
+    { "title": "Facebook", "colors": ["#3b5998"], "meta": {} },
+    {
+      "title": "Fairfield Inn & Suites",
+      "colors": ["#6caddf", "#b06010", "#004990", "#b50938"],
+      "meta": {
+        "url": "http://www.marriott.com/fairfield-inn/travel.mi",
+        "source": "http://logos.concordhotels.com/logos/MARRIOTT/FAIRFIELD%20INN%20AND%20SUITES/OUT%20OF%20CARTOUCHE/FairfieldInnColors.pdf"
+      }
+    },
+    {
+      "title": "Fairmont",
+      "colors": ["#a6a685", "#000000"],
+      "meta": { "url": "http://www.fairmont.com/" }
+    },
+    {
+      "title": "famo.us",
+      "colors": ["#fa5c4f", "#333333"],
+      "meta": { "url": "http://famo.us/" }
+    },
+    {
+      "title": "Fancy",
+      "colors": ["#3098dc", "#494e58"],
+      "meta": { "source": "https://fancy.com" }
+    },
+    {
+      "title": "Fedex",
+      "colors": ["#4d148c", "#ff6600"],
+      "meta": { "source": "http://www.fedex.com/" }
+    },
+    {
+      "title": "Feedly",
+      "colors": ["#2bb24c"],
+      "meta": { "source": "http://feedly.com/" }
+    },
+    {
+      "title": "Fendi",
+      "colors": ["#f9b949"],
+      "meta": { "source": "https://www.fendi.com/" }
+    },
+    {
+      "title": "Ferrari",
+      "colors": ["#e32119"],
+      "meta": {
+        "url": "http://www.ferrari.com/",
+        "source": "http://corseclienti.ferrari.com/2014it/files/2011/09/140326_Chall_Teams_Br_Guidelines014_p141.pdf"
+      }
+    },
+    {
+      "title": "Fiat",
+      "colors": ["#96172e", "#6d2d41"],
+      "meta": {
+        "url": "http://www.fiat.com",
+        "source": "http://www.slideshare.net/galofone/manual-de-marca-fiat"
+      }
+    },
+    {
+      "title": "Film4",
+      "colors": ["#000000", "#d6182a"],
+      "meta": {
+        "url": "http://www.channel4.com/channel/film4",
+        "source": "http://styleguides.channel4.com/Film4_colourways.pdf"
+      }
+    },
+    {
+      "title": "Firefox",
+      "colors": [
+        "#e66000",
+        "#ff9500",
+        "#ffcb00",
+        "#00539f",
+        "#0095dd",
+        "#331e54",
+        "#002147"
+      ],
+      "meta": {}
+    },
+    {
+      "title": "Fiskars",
+      "colors": ["#ff8e00", "#000000", "#955214", "#55601c", "#005172"],
+      "meta": {
+        "url": "http://www.fiskars.com",
+        "source": "https://github.com/brandcolors/feedback/issues/461"
+      }
+    },
+    {
+      "title": "Fitbit",
+      "colors": ["#4cc2c4", "#f54785", "#343434"],
+      "meta": {
+        "url": "http://www.fitbit.com/",
+        "source": "http://dev.fitbit.com/trademark"
+      }
+    },
+    {
+      "title": "Five Guys",
+      "colors": ["#ed174f", "#fbb040", "#efc402", "#d4891c"],
+      "meta": {
+        "url": "http://www.fiveguys.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/238"
+      }
+    },
+    {
+      "title": "Fiverr",
+      "colors": ["#00b22d"],
+      "meta": {
+        "url": "https://www.fiverr.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/464"
+      }
+    },
+    {
+      "title": "FiveThirtyEight",
+      "colors": ["#ed713a", "#000000"],
+      "meta": { "url": "http://fivethirtyeight.com/" }
+    },
+    { "title": "Flattr", "colors": ["#f67c1a", "#338d11"], "meta": {} },
+    {
+      "title": "Flavors.me",
+      "colors": ["#f10087", "#009ae7"],
+      "meta": { "url": "http://flavors.me/" }
+    },
+    { "title": "Flickr", "colors": ["#0063dc", "#ff0084"], "meta": {} },
+    {
+      "title": "Flipboard",
+      "colors": ["#e12828"],
+      "meta": { "source": "https://flipboard.com/" }
+    },
+    {
+      "title": "Flixster",
+      "colors": ["#2971b2"],
+      "meta": {
+        "url": "http://www.flixster.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/218"
+      }
+    },
+    {
+      "title": "Fluid UI",
+      "colors": ["#3fa9f5", "#989898", "#f8f8f8"],
+      "meta": { "url": "https://www.fluidui.com/" }
+    },
+    {
+      "title": "Follr",
+      "colors": ["#4dc9f6", "#f67019", "#f53794", "#537bc4", "#acc236"],
+      "meta": { "url": "http://www.follr.com/" }
+    },
+    {
+      "title": "FontAwesome",
+      "colors": ["#228ae6"],
+      "meta": { "source": "https://fontawesome.com/" }
+    },
+    {
+      "title": "Ford",
+      "colors": ["#1c396d"],
+      "meta": {
+        "url": "http://www.ford.com/",
+        "source": "http://www.tomsieron.com/wit/pin/assets/Ford.pdf"
+      }
+    },
+    {
+      "title": "Format",
+      "colors": ["#ee3440"],
+      "meta": {
+        "url": "http://format.com/",
+        "source": "http://format.com/press"
+      }
+    },
+    { "title": "Forrst", "colors": ["#5b9a68"], "meta": {} },
+    {
+      "title": "Foursquare",
+      "colors": ["#f94877", "#0732a2", "#2d5be3"],
+      "meta": {
+        "url": "https://foursquare.com/",
+        "source": "https://foursquare.com/about/logos"
+      }
+    },
+    {
+      "title": "FreeCodeCamp",
+      "colors": ["#006400", "#ff9c2a", "#ff4025", "#3949ab", "#efefef"],
+      "meta": {
+        "url": "https://www.freecodecamp.com/",
+        "source": "https://www.freecodecamp.com/design-style-guide/"
+      }
+    },
+    {
+      "title": "Friend2Friend",
+      "colors": ["#0f99d6"],
+      "meta": { "url": "http://www.friend2friend.com/" }
+    },
+    {
+      "title": "Gallaudet University",
+      "colors": ["#00457c", "#e8d4a2"],
+      "meta": {
+        "url": "http://www2.gallaudet.edu/",
+        "source": "https://www.gallaudet.edu/Documents/PublicRelations/Gallaudet_Visual_Identity_Guide_rev04202012.pdf"
+      }
+    },
+    {
+      "title": "Gannett",
+      "colors": ["#009bff"],
+      "meta": { "url": "http://www.gannett.com/" }
+    },
+    { "title": "Garmin", "colors": ["#007cc3"], "meta": {} },
+    {
+      "title": "Garuda",
+      "colors": ["#484848", "#002561", "#2f6f7e"],
+      "meta": {
+        "url": "https://www.garuda-indonesia.com/",
+        "source": "https://www.behance.net/gallery/13482269/Garuda-Indonesia-Advertisement-Guidelines-2013"
+      }
+    },
+    {
+      "title": "GeneratePress",
+      "colors": ["#1b212b", "#1e72bd", "#efefef"],
+      "meta": {
+        "url": "https://generatepress.com/",
+        "source": "https://generatepress.com/brand-assets/"
+      }
+    },
+    { "title": "Geocaching", "colors": ["#4a742c"], "meta": {} },
+    {
+      "title": "Georgia Southern University",
+      "colors": ["#041e42", "#a99260"],
+      "meta": {
+        "url": "http://www.georgiasouthern.edu/",
+        "source": "http://news.georgiasouthern.edu/marketing/wp-content/uploads/sites/4/GS_IdentityStdsQuickGuide_Mar2016.pdf"
+      }
+    },
+    {
+      "title": "Ghost",
+      "colors": ["#212425", "#718087", "#5ba4e5", "#9fbb58", "#e9e8dd"],
+      "meta": {}
+    },
+    {
+      "title": "Gibson",
+      "colors": ["#000000", "#436f8e", "#887d59", "#8f9696"],
+      "meta": {
+        "url": "http://www.gibson.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/228"
+      }
+    },
+    { "title": "Gimmebar", "colors": ["#d6156c"], "meta": {} },
+    {
+      "title": "GitHub",
+      "colors": [
+        "#4078c0",
+        "#6cc644",
+        "#bd2c00",
+        "#c9510c",
+        "#6e5494",
+        "#fafafa",
+        "#f5f5f5",
+        "#333"
+      ],
+      "meta": {
+        "url": "https://github.com/",
+        "source": "http://primercss.io/colors/"
+      }
+    },
+    {
+      "title": "GitLab",
+      "colors": ["#fca326", "#fc6d26", "#e24329", "#554488"],
+      "meta": {
+        "url": "https://gitlab.com",
+        "source": "https://gitlab.com/gitlab-com/gitlab-artwork/blob/master/colors"
+      }
+    },
+    {
+      "title": "Gitter",
+      "colors": ["#46bc99", "#f68d42", "#ed1965", "#f2f0ed", "#3a3133"],
+      "meta": {
+        "url": "https://gitter.im/",
+        "source": "https://github.com/brandcolors/feedback/issues/430"
+      }
+    },
+    { "title": "Gittip", "colors": ["#663300", "#339966"], "meta": {} },
+    { "title": "GoDaddy", "colors": ["#7db701", "#ff8a00"], "meta": {} },
+    {
+      "title": "Gogo",
+      "colors": ["#e80029", "#40b4e5", "#7c868d"],
+      "meta": {
+        "url": "https://www.gogoair.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/588"
+      }
+    },
+    {
+      "title": "Goodreads",
+      "colors": ["#553b08"],
+      "meta": {
+        "url": "http://www.goodreads.com/",
+        "source": "http://www.goodreads.com/about/press"
+      }
+    },
+    {
+      "title": "Google",
+      "colors": ["#4285f4", "#34a853", "#fbbc05", "#ea4335"],
+      "meta": {
+        "url": "https://www.google.com/",
+        "source": "https://design.google.com/articles/evolving-the-google-identity/"
+      }
+    },
+    {
+      "title": "Google Allo",
+      "colors": ["#fbbc05"],
+      "meta": { "url": "https://allo.google.com/" }
+    },
+    {
+      "title": "Google Duo",
+      "colors": ["#4285f4"],
+      "meta": {
+        "url": "https://duo.google.com/",
+        "source": "https://duo.google.com/images/duo-logo/Duo_gray.svg"
+      }
+    },
+    {
+      "title": "Google+",
+      "colors": ["#dd4b39"],
+      "meta": {
+        "url": "https://plus.google.com/",
+        "source": "https://developers.google.com/+/branding-guidelines"
+      }
+    },
+    {
+      "title": "Gospel for Asia",
+      "colors": [
+        "#099d84",
+        "#4d9db3",
+        "#456acf",
+        "#8762c9",
+        "#ad182d",
+        "#e15f5f"
+      ],
+      "meta": {
+        "url": "https://www.gfa.org/",
+        "source": "https://github.com/brandcolors/feedback/issues/657"
+      }
+    },
+    {
+      "title": "Gravatar",
+      "colors": ["#1e8cbe"],
+      "meta": { "url": "http://gravatar.com/" }
+    },
+    {
+      "title": "Gravit",
+      "colors": ["#e30061", "#d5df00", "#475258"],
+      "meta": { "url": "http://about.gravit.io/" }
+    },
+    {
+      "title": "Greenhouse",
+      "colors": ["#00b2a9"],
+      "meta": {
+        "url": "https://www.greenhouse.io/",
+        "source": "https://www.greenhouse.io/press"
+      }
+    },
+    { "title": "Groupon", "colors": ["#82b548"], "meta": {} },
+    {
+      "title": "Grunt",
+      "colors": ["#fba919", "#463014"],
+      "meta": { "url": "http://gruntjs.com/" }
+    },
+    {
+      "title": "Gumtree",
+      "colors": ["#72ef36", "#3b3141", "#f0ece6"],
+      "meta": { "url": "https://www.gumtree.com/" }
+    },
+    {
+      "title": "GVB",
+      "colors": [
+        "#0863b5",
+        "#fec600",
+        "#f39100",
+        "#e3001f",
+        "#e50064",
+        "#954a97",
+        "#009ee3",
+        "#13a538"
+      ],
+      "meta": {
+        "url": "http://gvb.nl/",
+        "source": "http://assets.gvb.nl/kleuren-2015.pdf"
+      }
+    },
+    {
+      "title": "Hacker News",
+      "colors": ["#ff4000"],
+      "meta": {
+        "url": "https://news.ycombinator.com/",
+        "source": "https://www.ycombinator.com/press/#assets"
+      }
+    },
+    {
+      "title": "Hangouts",
+      "colors": ["#0f9d58"],
+      "meta": { "url": "https://hangouts.google.com/" }
+    },
+    {
+      "title": "happn",
+      "colors": ["#0087b4"],
+      "meta": {
+        "url": "https://www.happn.com/",
+        "source": "https://www.happn.com/en/press"
+      }
+    },
+    {
+      "title": "Heineken",
+      "colors": ["#008200", "#205527", "#ff2b00", "#c3c3c3"],
+      "meta": {
+        "url": "https://www.heineken.com/",
+        "source": "https://issuu.com/bondo/docs/hnv_guidelines_12.2011_v3"
+      }
+    },
+    { "title": "HelloWallet", "colors": ["#0093d0"], "meta": {} },
+    {
+      "title": "Help Scout",
+      "colors": ["#3197d6", "#394956", "#d6dde3"],
+      "meta": { "url": "https://www.helpscout.net/" }
+    },
+    { "title": "Heroku", "colors": ["#c9c3e6", "#6762a6"], "meta": {} },
+    {
+      "title": "Hewlett Packard Enterprise",
+      "colors": ["#00b388", "#425563"],
+      "meta": { "url": "https://www.hpe.com/" }
+    },
+    {
+      "title": "hi5",
+      "colors": ["#fd9827"],
+      "meta": { "source": "http://www.hi5.com/" }
+    },
+    {
+      "title": "Highfive",
+      "colors": ["#a26eea", "#f7afff", "#5d70ea", "#46b7fd"],
+      "meta": {
+        "url": "https://highfive.com/",
+        "source": "https://highfive.com/contact#mediaSection"
+      }
+    },
+    {
+      "title": "Home Depot",
+      "colors": ["#f96302"],
+      "meta": { "url": "http://www.homedepot.com/" }
+    },
+    {
+      "title": "HomeAway",
+      "colors": ["#2a6ebb", "#ff8a00"],
+      "meta": { "url": "http://www.homeaway.com/" }
+    },
+    {
+      "title": "HootSuite",
+      "colors": [
+        "#003265",
+        "#f7e8d5",
+        "#ffbd0a",
+        "#c6af92",
+        "#71685f",
+        "#54493f",
+        "#38322d"
+      ],
+      "meta": {}
+    },
+    { "title": "Houzz", "colors": ["#7ac142", "#000000"], "meta": {} },
+    { "title": "HP", "colors": ["#0096d6", "#d7410b"], "meta": {} },
+    { "title": "HSBC", "colors": ["#db0011"], "meta": {} },
+    { "title": "HTML5", "colors": ["#e34f26"], "meta": {} },
+    {
+      "title": "Hulu",
+      "colors": [
+        "#66aa33",
+        "#99cc33",
+        "#41811e",
+        "#222222",
+        "#666666",
+        "#e8e8e8"
+      ],
+      "meta": {
+        "url": "https://www.hulu.com",
+        "source": "https://www.hulu.com/press/assets"
+      }
+    },
+    {
+      "title": "Humble Bundle",
+      "colors": ["#cb272c"],
+      "meta": {
+        "url": "https://www.humblebundle.com/",
+        "source": "https://support.humblebundle.com/hc/en-us/articles/202742060-Bundle-Logos"
+      }
+    },
+    {
+      "title": "Hyatt",
+      "colors": [
+        "#6d6e71",
+        "#bf5b20",
+        "#006e96",
+        "#8c8700",
+        "#ad5f7d",
+        "#d79100"
+      ],
+      "meta": {
+        "url": "http://www.hyatt.com/",
+        "source": "http://www.hyattbrandmanager.com/hyatt/asset_storage/2/HYSB010_BrandGuidelines_20120815_19493.pdf"
+      }
+    },
+    { "title": "IBM", "colors": ["#006699"], "meta": {} },
+    {
+      "title": "Icons8",
+      "colors": ["#32c24d"],
+      "meta": {
+        "url": "https://icons8.com/",
+        "source": "https://icons8.com/articles/icons8-app-media-kit/"
+      }
+    },
+    {
+      "title": "iDEAL",
+      "colors": ["#cc0066", "#79afc1", "#000000"],
+      "meta": { "url": "https://www.ideal.nl/" }
+    },
+    {
+      "title": "Identi.ca",
+      "colors": ["#789240", "#7d0100", "#8baaff"],
+      "meta": {}
+    },
+    {
+      "title": "IFTTT",
+      "colors": ["#33ccff", "#ff4400", "#000000"],
+      "meta": { "url": "https://ifttt.com/" }
+    },
+    {
+      "title": "iHeartRadio",
+      "colors": ["#c6002b"],
+      "meta": { "source": "http://www.iheart.com/" }
+    },
+    { "title": "IKEA", "colors": ["#ffcc00", "#003399"], "meta": {} },
+    { "title": "IMDb", "colors": ["#f5de50"], "meta": {} },
+    {
+      "title": "Imgur",
+      "colors": ["#85bf25"],
+      "meta": { "source": "http://imgur.com/" }
+    },
+    {
+      "title": "Indeed",
+      "colors": ["#2164f4", "#ff6600"],
+      "meta": { "source": "http://www.indeed.com/" }
+    },
+    {
+      "title": "Indiegogo",
+      "colors": ["#eb1478"],
+      "meta": { "source": "https://www.indiegogo.com/" }
+    },
+    {
+      "title": "Instacart",
+      "colors": ["#60ab59"],
+      "meta": {
+        "url": "https://www.instacart.com/",
+        "source": "https://www.instacart.com/press"
+      }
+    },
+    {
+      "title": "Instagram",
+      "colors": [
+        "#405de6",
+        "#5851db",
+        "#833ab4",
+        "#c13584",
+        "#e1306c",
+        "#fd1d1d",
+        "#f56040",
+        "#f77737",
+        "#fcaf45",
+        "#ffdc80"
+      ],
+      "meta": {
+        "url": "https://www.instagram.com/",
+        "source": "https://vimeo.com/166138104"
+      }
+    },
+    {
+      "title": "Instapage",
+      "colors": ["#0d1a2b", "#1565c0", "#1e88e5", "#bcced6", "#f2f7f9"],
+      "meta": {
+        "url": "https://instapage.com/",
+        "source": "https://instapage.com/press-kit"
+      }
+    },
+    { "title": "Instapaper", "colors": ["#000000", "#428bca"], "meta": {} },
+    { "title": "Intel", "colors": ["#0f7dc2"], "meta": {} },
+    {
+      "title": "Internet Society",
+      "colors": [
+        "#0c1c2c",
+        "#3a82e4",
+        "#40b2a4",
+        "#eff2ec",
+        "#dedad0",
+        "#d0e6da",
+        "#085856",
+        "#24366e",
+        "#143e50",
+        "#7e245c",
+        "#d25238",
+        "#eeca4a"
+      ],
+      "meta": {
+        "url": "https://www.internetsociety.org/",
+        "source": "https://www.internetsociety.org/identity/en/colour"
+      }
+    },
+    { "title": "Intuit", "colors": ["#365ebf"], "meta": {} },
+    {
+      "title": "InVision",
+      "colors": [
+        "#ff3366",
+        "#252b33",
+        "#2f7bbd",
+        "#323a45",
+        "#8a959e",
+        "#d4d7da",
+        "#e9ebec"
+      ],
+      "meta": {
+        "url": "https://www.invisionapp.com",
+        "source": "https://projects.invisionapp.com/boards/BX4P1DY5H46R"
+      }
+    },
+    {
+      "title": "iOS",
+      "colors": [
+        "#5fc9f8",
+        "#fecb2e",
+        "#fd9426",
+        "#fc3158",
+        "#147efb",
+        "#53d769",
+        "#fc3d39",
+        "#8e8e93"
+      ],
+      "meta": {
+        "url": "https://www.apple.com/ios/",
+        "source": "https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/ColorImagesText.html"
+      }
+    },
+    {
+      "title": "Israel Railways",
+      "colors": ["#1e1f56"],
+      "meta": {
+        "url": "https://www.rail.co.il/",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Israel_Railways_Logo.svg"
+      }
+    },
+    {
+      "title": "Issuu",
+      "colors": ["#f36d5d"],
+      "meta": {
+        "url": "https://issuu.com/",
+        "source": "https://issuu.com/press"
+      }
+    },
+    {
+      "title": "iStock",
+      "colors": ["#fe423f", "#02a388", "#0c0d0d", "#e8eded", "#dce1e1"],
+      "meta": { "url": "http://www.istockphoto.com/" }
+    },
+    {
+      "title": "JavaScript",
+      "colors": ["#f7df1e"],
+      "meta": {
+        "url": "https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg"
+      }
+    },
+    {
+      "title": "Jawbone",
+      "colors": ["#000000"],
+      "meta": { "url": "https://jawbone.com/" }
+    },
+    {
+      "title": "JBL",
+      "colors": ["#ff6600"],
+      "meta": { "source": "http://www.jbl.com/" }
+    },
+    {
+      "title": "Jetpack",
+      "colors": ["#669c34", "#72af3a"],
+      "meta": { "source": "https://jetpack.com/" }
+    },
+    {
+      "title": "Joomla!",
+      "colors": ["#f44321", "#5091cd", "#f9a541", "#7ac143"],
+      "meta": {
+        "url": "https://www.joomla.org/",
+        "source": "https://docs.joomla.org/JDOC:Colors"
+      }
+    },
+    {
+      "title": "Joyent",
+      "colors": ["#ff6600"],
+      "meta": { "url": "https://www.joyent.com/" }
+    },
+    {
+      "title": "jQuery",
+      "colors": ["#0769ad", "#7acef4"],
+      "meta": {
+        "url": "https://jquery.com/",
+        "source": "https://brand.jquery.org/logos/"
+      }
+    },
+    {
+      "title": "Kaspersky Lab",
+      "colors": ["#006c54", "#d52a1d"],
+      "meta": {
+        "url": "http://www.kaspersky.com/",
+        "source": "https://press.kaspersky.com/image-gallery/#tab3"
+      }
+    },
+    {
+      "title": "Keeeb",
+      "colors": ["#00a9c0"],
+      "meta": { "url": "http://www.keeeb.com/" }
+    },
+    {
+      "title": "Khan Academy",
+      "colors": ["#9cb443", "#242f3a"],
+      "meta": {
+        "url": "https://www.khanacademy.org/",
+        "source": "https://khanacademy.zendesk.com/hc/en-us/articles/202263034-Trademark-and-Brand-Usage-Policy"
+      }
+    },
+    {
+      "title": "Kia",
+      "colors": ["#c21a30"],
+      "meta": { "url": "http://www.kia.com/" }
+    },
+    { "title": "Kickstarter", "colors": ["#2bde73", "#0f2105"], "meta": {} },
+    {
+      "title": "kik",
+      "colors": ["#82bc23", "#3db4e7"],
+      "meta": {
+        "url": "http://www.kik.com/",
+        "source": "http://www.kik.com/press/"
+      }
+    },
+    { "title": "kippt", "colors": ["#d51007"], "meta": {} },
+    {
+      "title": "KITKAT",
+      "colors": ["#d70021"],
+      "meta": { "url": "https://www.kitkat.com/" }
+    },
+    {
+      "title": "Kiva",
+      "colors": ["#63a541", "#236133", "#26b6e8"],
+      "meta": {
+        "url": "https://www.kiva.org/",
+        "source": "https://brandfolder.com/kiva/brand-guidelines"
+      }
+    },
+    { "title": "Kiwipay", "colors": ["#00b0df"], "meta": {} },
+    {
+      "title": "KLM",
+      "colors": ["#00a1e4"],
+      "meta": { "url": "https://www.klm.com/" }
+    },
+    {
+      "title": "Knight Foundation",
+      "colors": [
+        "#000000",
+        "#03cce6",
+        "#29c876",
+        "#ff4081",
+        "#fdce2e",
+        "#f5f4f2",
+        "#cccccc",
+        "#666666",
+        "#ff3939"
+      ],
+      "meta": {
+        "url": "https://knightfoundation.org/",
+        "source": "https://knight.app.box.com/s/r4t8h8xazdlw6ehxdqk01nvoqsq0s1tz"
+      }
+    },
+    {
+      "title": "Lamborghini",
+      "colors": ["#ddb321"],
+      "meta": { "url": "https://www.lamborghini.com/" }
+    },
+    {
+      "title": "Laravel",
+      "colors": ["#f55247"],
+      "meta": {
+        "url": "http://laravel.com/",
+        "source": "https://github.com/laravel/art/"
+      }
+    },
+    {
+      "title": "LastFM",
+      "colors": ["#d51007"],
+      "meta": {
+        "url": "http://www.last.fm/",
+        "source": "http://www.last.fm/about/resources"
+      }
+    },
+    {
+      "title": "LastPass",
+      "colors": [
+        "#d32d27",
+        "#af0809",
+        "#000000",
+        "#0c2340",
+        "#00a3e0",
+        "#ede04b",
+        "#333f48",
+        "#d9e1e2"
+      ],
+      "meta": {
+        "url": "https://www.lastpass.com/",
+        "source": "https://lastpass.com/press-room/"
+      }
+    },
+    {
+      "title": "LEGO",
+      "colors": ["#f6ec35", "#d11013", "#000000"],
+      "meta": {
+        "url": "https://www.lego.com/",
+        "source": "https://www.lego.com/en-us/aboutus/media-library"
+      }
+    },
+    {
+      "title": "LINE",
+      "colors": ["#00c300"],
+      "meta": { "url": "http://line.me/", "source": "http://line.me/logo/en" }
+    },
+    {
+      "title": "LinkedIn",
+      "colors": [
+        "#0077b5",
+        "#000000",
+        "#313335",
+        "#86888a",
+        "#caccce",
+        "#00a0dc",
+        "#8d6cab",
+        "#dd5143",
+        "#e68523"
+      ],
+      "meta": {
+        "url": "https://www.linkedin.com/",
+        "source": "https://brand.linkedin.com/visual-identity/color-palettes"
+      }
+    },
+    {
+      "title": "Livestream",
+      "colors": [
+        "#cf202e",
+        "#232121",
+        "#f78822",
+        "#f6db35",
+        "#6dc067",
+        "#4185be",
+        "#8f499c"
+      ],
+      "meta": {}
+    },
+    {
+      "title": "Lloyd’s",
+      "colors": [
+        "#d81f2a",
+        "#ff9900",
+        "#e0d86e",
+        "#9ea900",
+        "#6ec9e0",
+        "#007ea3",
+        "#9e4770",
+        "#631d76",
+        "#1e1e1e"
+      ],
+      "meta": {
+        "url": "http://www.lloyds.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/234"
+      }
+    },
+    {
+      "title": "LocalBitcoins.com",
+      "colors": ["#006fbf", "#ff7b00"],
+      "meta": { "url": "https://localbitcoins.com/" }
+    },
+    {
+      "title": "LOMO",
+      "colors": ["#eb0028", "#00a0df"],
+      "meta": {
+        "url": "http://www.lomography.com/",
+        "source": "http://issuu.com/leonardolaurensius/docs/brand_style_guide_lomo"
+      }
+    },
+    {
+      "title": "London Underground",
+      "colors": ["#000099", "#cc3333"],
+      "meta": {
+        "url": "https://tfl.gov.uk/modes/tube/",
+        "source": "https://github.com/brandcolors/feedback/issues/384"
+      }
+    },
+    {
+      "title": "Lowe's",
+      "colors": ["#004990", "#15b6e5"],
+      "meta": {
+        "url": "https://www.lowes.com/",
+        "source": "https://www.lowes.com/l/logos.html"
+      }
+    },
+    { "title": "Lumo", "colors": ["#576396"], "meta": {} },
+    {
+      "title": "Lyft",
+      "colors": ["#ff00bf", "#352384", "#333447", "#f3f3f5"],
+      "meta": {
+        "url": "https://www.lyft.com/",
+        "source": "https://s3.amazonaws.com/lyft-common/publicapi/production/swaggers/Lyft-API-Guidelines-Feb2016.pdf"
+      }
+    },
+    {
+      "title": "Magento",
+      "colors": ["#f46f25"],
+      "meta": { "url": "https://magento.com/" }
+    },
+    {
+      "title": "Mail.Ru",
+      "colors": ["#168de2", "#ffa930"],
+      "meta": {
+        "url": "https://mail.ru/",
+        "source": "https://corp.mail.ru/ru/press/identity/"
+      }
+    },
+    {
+      "title": "MailChimp",
+      "colors": [
+        "#239ab9",
+        "#52bad5",
+        "#6dc5dc",
+        "#373737",
+        "#5d5c5d",
+        "#b7b7b7"
+      ],
+      "meta": {
+        "url": "http://mailchimp.com/",
+        "source": "http://mailchimp.com/about/brand-assets/"
+      }
+    },
+    {
+      "title": "Manjaro Linux",
+      "colors": ["#34be5b"],
+      "meta": { "url": "https://manjaro.org/" }
+    },
+    {
+      "title": "Mapbox",
+      "colors": [
+        "#3bb2d0",
+        "#3887be",
+        "#8a8acb",
+        "#56b881",
+        "#50667f",
+        "#41afa5",
+        "#f9886c",
+        "#e55e5e",
+        "#ed6498",
+        "#fbb03b",
+        "#142736",
+        "#28353d",
+        "#222b30"
+      ],
+      "meta": {
+        "url": "https://www.mapbox.com/",
+        "source": "https://www.mapbox.com/about/press/brand-guidelines/"
+      }
+    },
+    {
+      "title": "Massachusetts Institute of Technology",
+      "colors": ["#a31f34", "#8a8b8c", "#c2c0bf"],
+      "meta": {
+        "url": "http://web.mit.edu/",
+        "source": "http://web.mit.edu/graphicidentity/colors.html"
+      }
+    },
+    {
+      "title": "Massy Group",
+      "colors": ["#004a77", "#00adee", "#ff8100", "#ffd200"],
+      "meta": { "url": "http://www.massygroup.com/home.aspx" }
+    },
+    {
+      "title": "Mastercard",
+      "colors": ["#cc0000", "#ff9900", "#000066"],
+      "meta": {
+        "url": "http://www.mastercard.us/",
+        "source": "https://www.mastercardbrandcenter.com/mcbrand/us/downloadAsset.do?fileLoc=img.dl_1510.stnd.1"
+      }
+    },
+    {
+      "title": "McDonald’s",
+      "colors": [
+        "#bf0c0c",
+        "#e76a05",
+        "#ffc600",
+        "#47bc00",
+        "#05007b",
+        "#9748a8",
+        "#2bb3f3",
+        "#865200"
+      ],
+      "meta": {
+        "url": "http://www.mcdonalds.com/",
+        "source": "http://hannahkimdesign.com/mcd_styleguide/pages/color.html"
+      }
+    },
+    {
+      "title": "Medium",
+      "colors": ["#00ab6c"],
+      "meta": {
+        "url": "https://medium.com/",
+        "source": "https://medium.design/logos-and-brand-guidelines-f1a01a733592"
+      }
+    },
+    { "title": "Meetup", "colors": ["#e0393e"], "meta": {} },
+    {
+      "title": "Meijer",
+      "colors": ["#0a4d8c", "#dd1321"],
+      "meta": {
+        "url": "https://www.meijer.com/",
+        "source": "https://www.meijervendornet.com/Documents/2013%20Meijer%20Brand%20User%20Guide.pdf"
+      }
+    },
+    {
+      "title": "MercadoLibre.com",
+      "colors": ["#ffe600", "#2d3277"],
+      "meta": { "url": "http://www.mercadolibre.com/" }
+    },
+    {
+      "title": "Messenger",
+      "colors": ["#0084ff"],
+      "meta": {
+        "url": "https://www.messenger.com/",
+        "source": "https://facebookbrand.com/assets/messenger-toolkit-2"
+      }
+    },
+    {
+      "title": "Microsoft",
+      "colors": ["#f65314", "#7cbb00", "#00a1f1", "#ffbb00"],
+      "meta": {}
+    },
+    {
+      "title": "Microsoft Band",
+      "colors": ["#783bd2"],
+      "meta": {
+        "url": "https://www.microsoft.com/microsoft-band/en-us",
+        "source": "https://developer.microsoftband.com/Content/docs/MicrosoftBandExperienceDesignGuidelines.pdf"
+      }
+    },
+    { "title": "Microsoft Office", "colors": ["#ea3e23"], "meta": {} },
+    {
+      "title": "Microsoft Surface",
+      "colors": ["#0078d7", "#eeeeee", "#737373", "#505050", "#000000"],
+      "meta": {
+        "url": "https://www.microsoft.com/surface",
+        "source": "https://mspartner-public.sharepoint.com/Surface/Guidelines/Microsoft_Surface_brand_guidelines.pdf"
+      }
+    },
+    {
+      "title": "Milligram",
+      "colors": ["#9b4dca", "#f4f5f6", "#606c76"],
+      "meta": { "url": "http://milligram.io/" }
+    },
+    {
+      "title": "Mixcloud",
+      "colors": ["#52aad8", "#273a4b", "#1d2d3b"],
+      "meta": {
+        "url": "https://www.mixcloud.com/",
+        "source": "https://www.mixcloud.com/branding/"
+      }
+    },
+    { "title": "Mixpanel", "colors": ["#a086d3"], "meta": {} },
+    {
+      "title": "MLB",
+      "colors": ["#000088", "#cc0000"],
+      "meta": {
+        "url": "https://www.mlb.com/",
+        "source": "https://en.wikipedia.org/wiki/Major_League_Baseball#/media/File:Major_League_Baseball_logo.svg"
+      }
+    },
+    {
+      "title": "Mobilink",
+      "colors": ["#ee1d23"],
+      "meta": { "url": "http://www.mobilink.com.pk/" }
+    },
+    {
+      "title": "Mojang",
+      "colors": ["#db1f29", "#000000"],
+      "meta": { "url": "https://mojang.com/" }
+    },
+    {
+      "title": "Mollie",
+      "colors": ["#c6d6df", "#ec4534"],
+      "meta": { "source": "https://www.mollie.com/" }
+    },
+    {
+      "title": "MongoDB",
+      "colors": ["#589636"],
+      "meta": { "source": "https://www.mongodb.com/" }
+    },
+    {
+      "title": "Montclair State University",
+      "colors": [
+        "#ce1141",
+        "#eeb111",
+        "#e87d1e",
+        "#94ce08",
+        "#00386b",
+        "#969491"
+      ],
+      "meta": {
+        "url": "http://www.montclair.edu/",
+        "source": "http://www.montclair.edu/its-all-here/brand-manual/color-palette/"
+      }
+    },
+    {
+      "title": "More4",
+      "colors": [
+        "#949483",
+        "#f47b7b",
+        "#9f1f5c",
+        "#ef9020",
+        "#00af3e",
+        "#85b7e2",
+        "#29245c",
+        "#ffd616",
+        "#e5352b",
+        "#e990ab",
+        "#0081b4",
+        "#96cbb3",
+        "#91be3e",
+        "#39a6dd",
+        "#eb0973",
+        "#dde2e0",
+        "#333c41"
+      ],
+      "meta": {
+        "url": "http://www.channel4.com/programmes/catchup/m4",
+        "source": "http://www.channel4.com/about_c4/styleguide/More4_Guidelines.pdf"
+      }
+    },
+    { "title": "Motorola", "colors": ["#5c92fa"], "meta": {} },
+    {
+      "title": "Mozilla",
+      "colors": ["#c13832", "#d7d3c8", "#4d4e53"],
+      "meta": {
+        "url": "https://www.mozilla.org/",
+        "source": "https://www.mozilla.org/styleguide/identity/mozilla/color/"
+      }
+    },
+    {
+      "title": "Musixmatch",
+      "colors": [
+        "#ff6050",
+        "#ff0e83",
+        "#d54262",
+        "#813867",
+        "#66336e",
+        "#341539",
+        "#5677fc",
+        "#9013fe",
+        "#ffc208",
+        "#00cc99"
+      ],
+      "meta": {
+        "url": "https://www.musixmatch.com/",
+        "source": "http://brand.musixmatch.com/guidelines/"
+      }
+    },
+    {
+      "title": "Muut",
+      "colors": ["#1fadc5", "#ff8000"],
+      "meta": { "url": "https://muut.com/" }
+    },
+    {
+      "title": "MyAnimeList",
+      "colors": ["#2e51a2"],
+      "meta": { "url": "https://myanimelist.net/" }
+    },
+    {
+      "title": "MySpace",
+      "colors": ["#000000"],
+      "meta": {
+        "url": "https://myspace.com/",
+        "source": "https://myspace.com/pressroom/assetslogos"
+      }
+    },
+    {
+      "title": "MySQL",
+      "colors": ["#00758f", "#f29111"],
+      "meta": {
+        "url": "http://www.mysql.com/",
+        "source": "https://www.mysql.com/about/legal/logos.html"
+      }
+    },
+    {
+      "title": "NaNoWriMo",
+      "colors": ["#93dee8", "#5a2e14"],
+      "meta": {
+        "url": "https://nanowrimo.org/",
+        "source": "https://nanowrimo.org/press#logos"
+      }
+    },
+    {
+      "title": "NASA",
+      "colors": ["#fc3d21", "#0b3d91"],
+      "meta": {
+        "url": "https://www.nasa.gov/",
+        "source": "https://sservi.nasa.gov/wp-content/uploads/2011/10/NASA_Style_Guide_v2.1.pdf"
+      }
+    },
+    {
+      "title": "NASCAR",
+      "colors": ["#ffd659", "#e4002b", "#007ac2"],
+      "meta": { "url": "https://www.nascar.com/" }
+    },
+    {
+      "title": "National Geographic",
+      "colors": ["#ffcc00", "#000000"],
+      "meta": {
+        "url": "http://www.nationalgeographic.com/",
+        "source": "http://style-guide.nationalgeographic.com/latest/site/color/"
+      }
+    },
+    {
+      "title": "Nationwide",
+      "colors": ["#0071bf", "#000000"],
+      "meta": { "url": "http://www.nationwide.com/" }
+    },
+    {
+      "title": "NBC",
+      "colors": [
+        "#e1ac26",
+        "#dc380f",
+        "#9f0812",
+        "#6347b2",
+        "#368dd5",
+        "#70af1e",
+        "#7e887a"
+      ],
+      "meta": {
+        "url": "http://www.nbc.com",
+        "source": "https://github.com/brandcolors/feedback/issues/255"
+      }
+    },
+    {
+      "title": "NC State University",
+      "colors": ["#cc0000", "#000000"],
+      "meta": {
+        "url": "https://www.ncsu.edu/",
+        "source": "http://brand.ncsu.edu/color/"
+      }
+    },
+    {
+      "title": "Nest",
+      "colors": ["#00afd8", "#7b858e"],
+      "meta": {
+        "url": "https://nest.com/",
+        "source": "https://developer.nest.com/documentation/cloud/ui-marketing-guidelines"
+      }
+    },
+    {
+      "title": "Netflix",
+      "colors": ["#e50914", "#221f1f", "#f5f5f1"],
+      "meta": {
+        "url": "https://www.netflix.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/263"
+      }
+    },
+    {
+      "title": "Netvibes",
+      "colors": ["#39bd00"],
+      "meta": { "url": "http://www.netvibes.com/" }
+    },
+    {
+      "title": "New Balance",
+      "colors": [
+        "#ce2724",
+        "#f3ec19",
+        "#207c88",
+        "#aac1bf",
+        "#e8e9d7",
+        "#4c4d4f",
+        "#231f20"
+      ],
+      "meta": {
+        "url": "http://www.newbalance.com/",
+        "source": "http://issuu.com/adrianposadas/docs/newbalance"
+      }
+    },
+    {
+      "title": "New York Post",
+      "colors": ["#cc3333", "#2a2a2a"],
+      "meta": { "url": "http://nypost.com/" }
+    },
+    {
+      "title": "Nexar",
+      "colors": ["#fbb040", "#44355b", "#31263e", "#ee5622", "#221e22"],
+      "meta": {
+        "url": "https://www.getnexar.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/581"
+      }
+    },
+    {
+      "title": "Nexmo",
+      "colors": ["#0077c8", "#ff8200", "#f0537a"],
+      "meta": {
+        "url": "https://www.nexmo.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/628"
+      }
+    },
+    {
+      "title": "Nextdoor",
+      "colors": ["#19975d"],
+      "meta": {
+        "url": "https://nextdoor.com/newsroom/",
+        "source": "https://nextdoor.com/"
+      }
+    },
+    {
+      "title": "NFL",
+      "colors": ["#013369", "#d50a0a"],
+      "meta": {
+        "url": "https://www.nfl.com/",
+        "source": "https://issuu.com/janjaneczek/docs/nfl"
+      }
+    },
+    {
+      "title": "Nike Football",
+      "colors": ["#504847", "#27a770"],
+      "meta": {
+        "url": "http://www.nike.com/us/en_us/c/football",
+        "source": "http://issuu.com/logobr/docs/brandbook_nikefootball"
+      }
+    },
+    {
+      "title": "NikeFuel",
+      "colors": ["#4bad31", "#f5dc00", "#e95814", "#e2142d"],
+      "meta": {
+        "url": "http://www.nike.com/us/en_us/c/nikeplus/nikefuel",
+        "source": "https://developer.nike.com/content/dam/nike-developer-cq/pages/documentation/nikefuel/VisualCenter.pdf"
+      }
+    },
+    {
+      "title": "Ning",
+      "colors": ["#75af42"],
+      "meta": { "url": "http://www.ning.com/" }
+    },
+    {
+      "title": "Ninjas in Pyjamas",
+      "colors": ["#a98c66", "#12191c", "#6f7f8d", "#000000"],
+      "meta": {
+        "url": "https://nip.gl/",
+        "source": "https://www.dropbox.com/s/zc7fud5j0wcztlx/Xtrfy_NiP_Branguideline_20170915.pdf"
+      }
+    },
+    {
+      "title": "Node.js",
+      "colors": ["#215732", "#6cc24a", "#44883e", "#333333"],
+      "meta": {
+        "url": "https://nodejs.org/",
+        "source": "https://nodejs.org/static/documents/foundation-visual-guidelines.pdf"
+      }
+    },
+    { "title": "Nokia", "colors": ["#124191"], "meta": {} },
+    {
+      "title": "Norsan Media",
+      "colors": ["#0390d8"],
+      "meta": { "url": "http://norsanmedia.com/" }
+    },
+    {
+      "title": "Northern Arizona University",
+      "colors": ["#003466", "#557665"],
+      "meta": {
+        "url": "https://nau.edu/",
+        "source": "https://nau.edu/uploadedFiles/Administrative/University_Advancement_Sites/Marketing/Forms/0724_FY15_V3.1_Graphic%20Identity%20System.pdf"
+      }
+    },
+    {
+      "title": "Northwestern University",
+      "colors": [
+        "#4e2a84",
+        "#836eaa",
+        "#401f68",
+        "#b6acd1",
+        "#e4e0ee",
+        "#342f2e",
+        "#716c6b",
+        "#bbb8b8",
+        "#d8d6d6"
+      ],
+      "meta": {
+        "url": "http://www.northwestern.edu",
+        "source": "http://www.northwestern.edu/brand/visual-identity/color/digital-colors.html"
+      }
+    },
+    {
+      "title": "Novartis",
+      "colors": [
+        "#765438",
+        "#a13323",
+        "#e65124",
+        "#ec7f22",
+        "#f8b22a",
+        "#ffd430"
+      ],
+      "meta": {
+        "url": "http://www.novartis.com/",
+        "source": "http://www.novartisbrandservice.com/cs/www.novartisbrandservice.com/files/novartis-brand/visual-identity/Brand_Essentials.pdf"
+      }
+    },
+    {
+      "title": "npm",
+      "colors": ["#cb3837"],
+      "meta": { "url": "https://www.npmjs.com/" }
+    },
+    {
+      "title": "NS",
+      "colors": ["#ffc61e", "#00337f"],
+      "meta": {
+        "url": "http://www.ns.nl/",
+        "source": "http://www.ns.nl/binaries/content/assets/NS/over-ns/nieuwscentrum%5B4%5D/dossiers/toolkit-rsb_versie-2.0_december-2012.pdf"
+      }
+    },
+    {
+      "title": "NS",
+      "colors": ["#003082", "#ffc917"],
+      "meta": { "url": "https://www.ns.nl/" }
+    },
+    { "title": "NVIDIA", "colors": ["#76b900"], "meta": {} },
+    {
+      "title": "NZXT",
+      "colors": ["#51007a", "#dbe800", "#d0d3d4", "#7c878e"],
+      "meta": {
+        "url": "https://www.nzxt.com/",
+        "source": "https://www.nzxt.com/branding"
+      }
+    },
+    {
+      "title": "ÖBB",
+      "colors": ["#e2002a", "#6e6e6e"],
+      "meta": {
+        "url": "http://www.oebb.at/",
+        "source": "https://github.com/brandcolors/feedback/issues/454"
+      }
+    },
+    { "title": "Odnoklassniki", "colors": ["#ed812b"], "meta": {} },
+    {
+      "title": "Office Sway",
+      "colors": ["#008272"],
+      "meta": { "url": "https://sway.com/" }
+    },
+    {
+      "title": "Oktopost",
+      "colors": ["#001f2d", "#008fd4", "#696969", "#cccccc", "#eeeeee"],
+      "meta": {
+        "url": "https://www.oktopost.com/",
+        "source": "https://www.oktopost.com/company/brand"
+      }
+    },
+    {
+      "title": "Olark",
+      "colors": [
+        "#8d989a",
+        "#744da8",
+        "#1fb3e0",
+        "#49c219",
+        "#f4dc2a",
+        "#eeb417",
+        "#d65129"
+      ],
+      "meta": {
+        "url": "https://www.olark.com/",
+        "source": "https://www.olark.com/styleguide"
+      }
+    },
+    {
+      "title": "Olympus",
+      "colors": ["#08107b", "#dfb226", "#777777"],
+      "meta": { "url": "http://www.olympus.com/" }
+    },
+    {
+      "title": "OnePlus",
+      "colors": ["#eb0029"],
+      "meta": {
+        "url": "https://oneplus.net/",
+        "source": "https://oneplus.net/press-resources"
+      }
+    },
+    {
+      "title": "Onshape",
+      "colors": ["#1b5faa", "#90cef1", "#ffc20e"],
+      "meta": { "url": "https://www.onshape.com/" }
+    },
+    {
+      "title": "ooVoo",
+      "colors": ["#eeaf00"],
+      "meta": { "url": "http://www.oovoo.com/" }
+    },
+    { "title": "Opera", "colors": ["#cc0f16", "#9c9e9f"], "meta": {} },
+    {
+      "title": "Oracle",
+      "colors": ["#ff0000", "#000000", "#7f7f7f"],
+      "meta": {
+        "url": "http://www.oracle.com/",
+        "source": "http://education.oracle.com/education/pdf/ocplogoguidelines.pdf"
+      }
+    },
+    {
+      "title": "Oregon State University",
+      "colors": ["#dc4405", "#000000"],
+      "meta": {
+        "url": "http://oregonstate.edu/",
+        "source": "http://communications.oregonstate.edu/brand-guide/visual-identity/colors"
+      }
+    },
+    {
+      "title": "Overstock",
+      "colors": ["#c7202c"],
+      "meta": { "url": "https://www.overstock.com/" }
+    },
+    {
+      "title": "Oxford University Press",
+      "colors": ["#002147", "#000000", "#666666"],
+      "meta": {
+        "url": "http://global.oup.com",
+        "source": "http://global.oup.com/corpidentity/fdscontent/Group_comms/pdf/corpid/OxfordUniversityPressIdentityGuidelines-fullmanual.pdf"
+      }
+    },
+    {
+      "title": "Pac-12",
+      "colors": [
+        "#004b91",
+        "#00274d",
+        "#0076c0",
+        "#000007",
+        "#d6e03d",
+        "#a1a1a4",
+        "#e5c5bb"
+      ],
+      "meta": {
+        "url": "http://pac-12.com/",
+        "source": "https://umc.utah.edu/wp-content/uploads/sites/15/2014/12/Pac12_StyleGuide_UTAH.pdf"
+      }
+    },
+    {
+      "title": "Panasonic",
+      "colors": ["#0f58a8", "#000000"],
+      "meta": { "url": "http://panasonic.com/" }
+    },
+    { "title": "Pandora", "colors": ["#005483"], "meta": {} },
+    { "title": "Path", "colors": ["#ee3423"], "meta": {} },
+    {
+      "title": "Patreon",
+      "colors": ["#f96854", "#052d49"],
+      "meta": {
+        "url": "https://www.patreon.com/",
+        "source": "https://www.patreon.com/brand/guidelines"
+      }
+    },
+    {
+      "title": "PAYMILL",
+      "colors": ["#f05000"],
+      "meta": {
+        "url": "https://www.paymill.com/",
+        "source": "https://www.paymill.com/en/about/press"
+      }
+    },
+    {
+      "title": "Paymo",
+      "colors": ["#22d0b8", "#34c950", "#8de86e"],
+      "meta": { "url": "https://www.paymoapp.com/" }
+    },
+    {
+      "title": "PayPal",
+      "colors": ["#003087", "#009cde", "#012169"],
+      "meta": {
+        "url": "https://www.paypal.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/187"
+      }
+    },
+    {
+      "title": "Pearson",
+      "colors": ["#ed6b06", "#9d1348", "#008b5d", "#364395"],
+      "meta": {
+        "url": "https://www.pearson.com",
+        "source": "https://www.pearson.com/content/dam/corporate/global/pearson-dot-com/files/styleguide/Summary-guidelines-pcom_24_06_2011.pdf"
+      }
+    },
+    {
+      "title": "Penguin Books",
+      "colors": ["#ff6900"],
+      "meta": {
+        "url": "http://www.penguin.com/",
+        "source": "http://www.penguin.com.au/logo-guidelines"
+      }
+    },
+    {
+      "title": "PeoplePerHour.com",
+      "colors": ["#ee7200"],
+      "meta": {
+        "url": "https://www.peopleperhour.com/",
+        "source": "http://blog.peopleperhour.com/press/"
+      }
+    },
+    {
+      "title": "Pepsi",
+      "colors": ["#e32934", "#004883"],
+      "meta": { "url": "http://www.pepsi.com/" }
+    },
+    {
+      "title": "Periscope",
+      "colors": ["#3aa4c6", "#d75444"],
+      "meta": {
+        "url": "https://www.periscope.tv/",
+        "source": "https://www.periscope.tv/press"
+      }
+    },
+    {
+      "title": "Pfizer",
+      "colors": [
+        "#0093d0",
+        "#000000",
+        "#616365",
+        "#00aeef",
+        "#d6006e",
+        "#75d1e0",
+        "#7dba00",
+        "#cc292b",
+        "#00a950",
+        "#f8971d",
+        "#f7d417",
+        "#4a245e",
+        "#f26649"
+      ],
+      "meta": {
+        "url": "http://www.pfizer.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/229"
+      }
+    },
+    {
+      "title": "Philips",
+      "colors": ["#0e5fd8"],
+      "meta": { "url": "http://www.philips.com/" }
+    },
+    {
+      "title": "Photobucket",
+      "colors": ["#0ea0db", "#000000"],
+      "meta": {
+        "url": "http://photobucket.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/218"
+      }
+    },
+    {
+      "title": "PHP",
+      "colors": ["#8892be", "#4f5b93", "#99cc99"],
+      "meta": {
+        "url": "http://php.net/",
+        "source": "http://php.net/download-logos.php"
+      }
+    },
+    {
+      "title": "Pikabu",
+      "colors": ["#5dbe57"],
+      "meta": { "url": "https://pikabu.ru/" }
+    },
+    { "title": "Pinboard", "colors": ["#0000e6"], "meta": {} },
+    {
+      "title": "Pinterest",
+      "colors": ["#bd081c"],
+      "meta": {
+        "url": "https://www.pinterest.com/",
+        "source": "https://business.pinterest.com/en/brand-guidelines"
+      }
+    },
+    {
+      "title": "Pizza Hut",
+      "colors": ["#ee3124", "#00a160", "#ffc425"],
+      "meta": {
+        "url": "http://www.pizzahut.com",
+        "source": "http://www.scribd.com/doc/47339523/PIZZA-HUT-Brand-Standards-Manual-Final"
+      }
+    },
+    {
+      "title": "Plasso",
+      "colors": ["#6585ed", "#f5756c", "#98afc0", "#2f3148"],
+      "meta": {}
+    },
+    {
+      "title": "Plaxo",
+      "colors": ["#414f5a"],
+      "meta": { "url": "http://www.plaxo.com/" }
+    },
+    { "title": "PlayStation", "colors": ["#003087"], "meta": {} },
+    {
+      "title": "Plex",
+      "colors": ["#e5a00d", "#282a2d"],
+      "meta": {
+        "url": "https://www.plex.tv/",
+        "source": "http://brand.plex.tv/d/qxmJ3odkK0fj/plex-style-guide#/basics/color-palettes"
+      }
+    },
+    {
+      "title": "Pocket",
+      "colors": ["#ef4056", "#50bcb6"],
+      "meta": { "url": "https://getpocket.com/" }
+    },
+    {
+      "title": "Poczta Polska",
+      "colors": ["#d52b1e"],
+      "meta": {
+        "url": "http://www.poczta-polska.pl/",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Poczta_Polska.svg"
+      }
+    },
+    {
+      "title": "Polariod",
+      "colors": ["#00a3e2", "#1ba548", "#fdc800", "#f1860e", "#e41b13"],
+      "meta": { "url": "http://www.polaroid.com/" }
+    },
+    {
+      "title": "Portfolium",
+      "colors": ["#0099ff", "#fb0a2a", "#17ad49", "#333333"],
+      "meta": { "url": "https://portfolium.com/" }
+    },
+    {
+      "title": "Postman",
+      "colors": ["#ef5b25"],
+      "meta": { "source": "https://www.getpostman.com/" }
+    },
+    {
+      "title": "Postmates",
+      "colors": ["#000000", "#36454f"],
+      "meta": {
+        "url": "https://postmates.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/236"
+      }
+    },
+    {
+      "title": "PrestaShop",
+      "colors": [
+        "#df0067",
+        "#251b5b",
+        "#25b9d7",
+        "#fbbb22",
+        "#68737f",
+        "#bbbfc3"
+      ],
+      "meta": {
+        "url": "https://www.prestashop.com/",
+        "source": "https://www.prestashop.com/en/media-kit"
+      }
+    },
+    { "title": "Prezi", "colors": ["#318bff"], "meta": {} },
+    {
+      "title": "Priceline",
+      "colors": ["#1885bf"],
+      "meta": { "url": "http://www.priceline.com/" }
+    },
+    {
+      "title": "Princeton University",
+      "colors": ["#ee7f2d", "#000000"],
+      "meta": {
+        "url": "https://www.princeton.edu/",
+        "source": "http://trademrk.princeton.edu/secure/uisg/UniversitySG.pdf"
+      }
+    },
+    {
+      "title": "Product Hunt",
+      "colors": ["#da552f", "#534540", "#988f8c", "#00b27f"],
+      "meta": {
+        "url": "http://www.producthunt.com/",
+        "source": "http://www.producthunt.com/branding"
+      }
+    },
+    {
+      "title": "ProtonMail",
+      "colors": ["#505264", "#8a90c7"],
+      "meta": {
+        "url": "https://protonmail.com/",
+        "source": "https://protonmail.com/media-kit"
+      }
+    },
+    {
+      "title": "Puma",
+      "colors": ["#000000", "#44403f", "#696965", "#ba2026", "#ae946d"],
+      "meta": {
+        "url": "http://puma.com/",
+        "source": "https://mariastegemeyer.files.wordpress.com/2016/03/puma-brand-guidelines1.pdf"
+      }
+    },
+    {
+      "title": "Purdue University",
+      "colors": ["#c28e0e", "#98700d", "#000000"],
+      "meta": {
+        "url": "https://www.purdue.edu/",
+        "source": "https://www.purdue.edu/brand/visual/colors.html"
+      }
+    },
+    {
+      "title": "Python",
+      "colors": ["#ffde57", "#4584b6", "#646464"],
+      "meta": {
+        "url": "https://www.python.org/",
+        "source": "https://www.python.org/community/logos/"
+      }
+    },
+    {
+      "title": "Qantas Airways",
+      "colors": ["#e0001b"],
+      "meta": { "url": "http://www.qantas.com.au/" }
+    },
+    {
+      "title": "Qualtrics",
+      "colors": ["#e10019"],
+      "meta": {
+        "url": "https://www.qualtrics.com",
+        "source": "https://github.com/brandcolors/feedback/issues/595"
+      }
+    },
+    {
+      "title": "QuizUp",
+      "colors": ["#ff5454"],
+      "meta": {
+        "url": "https://www.quizup.com/",
+        "source": "https://brandisty.com/quizup"
+      }
+    },
+    { "title": "Quora", "colors": ["#a82400"], "meta": {} },
+    { "title": "QUOTE.fm", "colors": ["#66ceff"], "meta": {} },
+    {
+      "title": "Raspberry Pi",
+      "colors": ["#c7053d", "#8cc04b"],
+      "meta": {
+        "url": "https://www.raspberrypi.org/",
+        "source": "https://www.raspberrypi.org/files/Raspberry_Pi_Visual_Guidelines.pdf"
+      }
+    },
+    {
+      "title": "Razer",
+      "colors": ["#00ff00"],
+      "meta": { "url": "http://www.razerzone.com/" }
+    },
+    { "title": "Rdio", "colors": ["#007dc3"], "meta": {} },
+    {
+      "title": "RE/MAX",
+      "colors": ["#e11b22", "#0054a4"],
+      "meta": {
+        "url": "http://www.remax.com/",
+        "source": "https://remax-saarlouis.de/wp-content/uploads/2014/10/Marken-_und_Grafikstandards.pdf"
+      }
+    },
+    {
+      "title": "React",
+      "colors": ["#00d8ff"],
+      "meta": { "url": "https://facebook.github.io/react/" }
+    },
+    { "title": "Readability", "colors": ["#990000"], "meta": {} },
+    {
+      "title": "Realex Payments",
+      "colors": ["#f29023", "#4d5255"],
+      "meta": { "url": "https://www.realexpayments.com/" }
+    },
+    { "title": "Red Hat", "colors": ["#cc0000"], "meta": {} },
+    {
+      "title": "Reddit",
+      "colors": ["#ff4500", "#5f99cf", "#cee3f8"],
+      "meta": {}
+    },
+    {
+      "title": "Redfin",
+      "colors": ["#a02021"],
+      "meta": {
+        "url": "https://www.redfin.com",
+        "source": "http://press.redfin.com/"
+      }
+    },
+    {
+      "title": "Redox",
+      "colors": ["#0a2239", "#01b287", "#ff9f1c", "#e5505a", "#854c9e"],
+      "meta": {
+        "url": "https://www.redoxengine.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/587"
+      }
+    },
+    {
+      "title": "Renaissance Hotels",
+      "colors": ["#000000", "#999999", "#f58021"],
+      "meta": {
+        "url": "http://renaissance-hotels.marriott.com/",
+        "source": "http://www.marriottbrandworks.com/pdfs/learnit_pdfs/BR/Full_BrandStandards.pdf"
+      }
+    },
+    {
+      "title": "Rentler",
+      "colors": ["#ed1c27"],
+      "meta": { "url": "https://www.rentler.com/" }
+    },
+    {
+      "title": "Residence Inn",
+      "colors": [
+        "#b32317",
+        "#f58025",
+        "#3a6e8f",
+        "#87b2d8",
+        "#8d8b00",
+        "#c1d72f"
+      ],
+      "meta": {
+        "url": "http://www.residenceinn.marriott.com/",
+        "source": "http://logos.concordhotels.com/logos/MARRIOTT/RESIDENCE%20INN/CARTOUCHE/ResidenceInnColors.pdf"
+      }
+    },
+    { "title": "ReverbNation", "colors": ["#e43526"], "meta": {} },
+    {
+      "title": "Rochester Institute of Technology",
+      "colors": ["#f36e21", "#513127"],
+      "meta": {
+        "url": "https://www.rit.edu/",
+        "source": "https://www.rit.edu/upub/graphic-standards"
+      }
+    },
+    { "title": "Rockpack", "colors": ["#0ba6ab"], "meta": {} },
+    {
+      "title": "Roku",
+      "colors": ["#6f1ab1"],
+      "meta": {
+        "url": "https://www.roku.com/",
+        "source": "https://www.roku.com/about/imageresources"
+      }
+    },
+    {
+      "title": "Rolls-Royce",
+      "colors": ["#680021", "#fffaec", "#939598", "#000000"],
+      "meta": {
+        "url": "http://www.rolls-roycemotorcars.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/240"
+      }
+    },
+    {
+      "title": "Roo Kids",
+      "colors": ["#e22027", "#a1cd3d", "#003e70"],
+      "meta": {
+        "url": "http://www.rookidsapp.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/256"
+      }
+    },
+    { "title": "Roon", "colors": ["#62b0d9"], "meta": {} },
+    {
+      "title": "Rosetta Stone",
+      "colors": ["#0098db", "#ecc400"],
+      "meta": { "url": "http://www.rosettastone.com/" }
+    },
+    {
+      "title": "Rounds",
+      "colors": ["#fdd800"],
+      "meta": { "url": "https://www.rounds.com/" }
+    },
+    {
+      "title": "Rowan University",
+      "colors": ["#3f1a0a", "#edd51c"],
+      "meta": {
+        "url": "http://www.rowan.edu/home/",
+        "source": "http://www.rowan.edu/universityrelations/publications/colors/"
+      }
+    },
+    {
+      "title": "Royal Mail",
+      "colors": ["#ff0000", "#ffff00", "#000000"],
+      "meta": {
+        "url": "http://www.royalmail.com/",
+        "source": "http://www.royalmail.com/sites/default/files/docs/pdf/Logo_guidelines.pdf"
+      }
+    },
+    { "title": "RSS", "colors": ["#f26522"], "meta": {} },
+    {
+      "title": "Ruby",
+      "colors": ["#cc342d"],
+      "meta": {
+        "url": "https://www.ruby-lang.org/",
+        "source": "https://www.ruby-lang.org/en/about/logo/"
+      }
+    },
+    {
+      "title": "Ruby on Rails",
+      "colors": ["#cc0000"],
+      "meta": {
+        "url": "http://rubyonrails.org/",
+        "source": "http://rubyonrails.org/images/rails-logo.svg"
+      }
+    },
+    {
+      "title": "Rutgers University",
+      "colors": ["#cc0033"],
+      "meta": {
+        "url": "http://www.rutgers.edu/",
+        "source": "http://identity.rutgers.edu/sites/identity/files/RU_IDguide_6.0.pdf"
+      }
+    },
+    {
+      "title": "Ryanair",
+      "colors": ["#073590", "#f1c933", "#2091eb"],
+      "meta": {
+        "url": "https://www.ryanair.com/us/en/",
+        "source": "https://www.behance.net/gallery/34224289/Ryanair-Design-Centre"
+      }
+    },
+    {
+      "title": "Sabre",
+      "colors": ["#e50000", "#111111"],
+      "meta": {
+        "url": "https://www.sabre.com/",
+        "source": "https://www.sabre.com/brand/logo.php"
+      }
+    },
+    {
+      "title": "Sage",
+      "colors": ["#00dc06"],
+      "meta": { "url": "https://www.sage.com/" }
+    },
+    {
+      "title": "Sainsbury’s",
+      "colors": ["#ec8a00"],
+      "meta": {
+        "url": "http://www.j-sainsbury.co.uk/",
+        "source": "http://www.j-sainsbury.co.uk/media/media-toolkit/2011/sainsburys-logo/"
+      }
+    },
+    { "title": "Salesforce", "colors": ["#1798c1", "#ff1100"], "meta": {} },
+    {
+      "title": "Samsung",
+      "colors": [
+        "#1428a0",
+        "#75787b",
+        "#0689d8",
+        "#ffc600",
+        "#ff6900",
+        "#e4002b",
+        "#c800a1",
+        "#685bc7",
+        "#0057b8",
+        "#00a9e0",
+        "#009ca6",
+        "#00b140"
+      ],
+      "meta": {}
+    },
+    {
+      "title": "San Francisco 49ers",
+      "colors": ["#e91e22", "#c8aa76", "#000000"],
+      "meta": { "url": "http://www.49ers.com/" }
+    },
+    {
+      "title": "San Francisco Giants",
+      "colors": ["#fd5a1e", "#000000"],
+      "meta": { "url": "http://sanfrancisco.giants.mlb.com/" }
+    },
+    {
+      "title": "SAP",
+      "colors": ["#003366", "#999999"],
+      "meta": {
+        "url": "http://go.sap.com/",
+        "source": "http://www.it-solutions.jp/sap/SAP%8Ae%8E%ED%83%8D%83S/03_SAP_Logo.pdf"
+      }
+    },
+    {
+      "title": "Scouts UK",
+      "colors": [
+        "#4d2177",
+        "#84a40b",
+        "#004851",
+        "#009a44",
+        "#0095c8",
+        "#003da5",
+        "#002855",
+        "#004851",
+        "#ffcd00",
+        "#ff8200",
+        "#ba0c2f",
+        "#ad1aac",
+        "#7c3a2d",
+        "#8c857b"
+      ],
+      "meta": {
+        "url": "http://scouts.org.uk/",
+        "source": "https://members.scouts.org.uk/documents/Brand%20Guidelines%20January%202015.pdf"
+      }
+    },
+    {
+      "title": "Scribd",
+      "colors": ["#1a7bba"],
+      "meta": {
+        "url": "https://www.scribd.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/218"
+      }
+    },
+    {
+      "title": "SEPTA",
+      "colors": ["#1f4fa3", "#f14728"],
+      "meta": {
+        "url": "http://www.septa.org/",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/SEPTA_text.svg"
+      }
+    },
+    {
+      "title": "Seton Hall University",
+      "colors": ["#004488"],
+      "meta": {
+        "url": "https://www.shu.edu/",
+        "source": "https://www13.shu.edu/offices/technology/upload/graphics-manual.pdf"
+      }
+    },
+    {
+      "title": "Shazam",
+      "colors": [
+        "#0088ff",
+        "#ffaa00",
+        "#ff7700",
+        "#ff0033",
+        "#9911aa",
+        "#cc2288",
+        "#aadd22",
+        "#242424",
+        "#646464",
+        "#949494",
+        "#e4e4e4",
+        "#f4f4f4"
+      ],
+      "meta": {
+        "url": "http://www.shazam.com/",
+        "source": "http://issuu.com/duncanriley/docs/shazam_identity_guidelines"
+      }
+    },
+    {
+      "title": "Sherwin-Williams",
+      "colors": ["#0168b3", "#ee3e34"],
+      "meta": {
+        "url": "http://www.sherwin-williams.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/237"
+      }
+    },
+    {
+      "title": "Shopify",
+      "colors": [
+        "#96bf48",
+        "#479ccf",
+        "#2d3538",
+        "#f5f5f5",
+        "#f2f7fa",
+        "#666666"
+      ],
+      "meta": {}
+    },
+    {
+      "title": "Shopmium",
+      "colors": ["#f01f74"],
+      "meta": {
+        "url": "https://www.shopmium.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/530"
+      }
+    },
+    {
+      "title": "Siemens",
+      "colors": ["#009999"],
+      "meta": {
+        "url": "http://www.siemens.com/",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Siemens_AG_logo.svg"
+      }
+    },
+    {
+      "title": "Skillshare",
+      "colors": ["#f26b21", "#68b8be"],
+      "meta": {
+        "url": "https://www.skillshare.com/",
+        "source": "https://www.skillshare.com/press"
+      }
+    },
+    {
+      "title": "Skoda",
+      "colors": ["#00800d"],
+      "meta": {
+        "url": "http://www.skoda-auto.com/",
+        "source": "https://issuu.com/janjaneczek/docs/skoda-brand-guideline"
+      }
+    },
+    { "title": "Skype", "colors": ["#00aff0"], "meta": {} },
+    {
+      "title": "SkyWest",
+      "colors": ["#00338d"],
+      "meta": {
+        "url": "http://www.skywest.com/",
+        "source": "http://www.skywest.com/assets/Uploads/BrandGuidelines/SkyWest-Brand-Guidelines-External.pdf"
+      }
+    },
+    {
+      "title": "Slack",
+      "colors": ["#6ecadc", "#e9a820", "#e01563", "#3eb991"],
+      "meta": {
+        "url": "https://slack.com/",
+        "source": "https://my.slack.com/brand-guidelines"
+      }
+    },
+    {
+      "title": "SlideShare",
+      "colors": ["#0077b5"],
+      "meta": {
+        "url": "http://www.slideshare.net/",
+        "source": "http://www.slideshare.net/about/logos"
+      }
+    },
+    {
+      "title": "Slipcase",
+      "colors": ["#7c9cb0"],
+      "meta": { "url": "https://www.slipcase.com/" }
+    },
+    {
+      "title": "Smashing Magazine",
+      "colors": ["#e53b2c", "#41b7d8"],
+      "meta": {}
+    },
+    {
+      "title": "Snagajob",
+      "colors": ["#f36f21"],
+      "meta": { "url": "http://www.snagajob.com/" }
+    },
+    {
+      "title": "Snapchat",
+      "colors": ["#fffc00"],
+      "meta": {
+        "url": "https://www.snapchat.com/",
+        "source": "https://www.snapchat.com/brand-guidelines"
+      }
+    },
+    {
+      "title": "SoapUI",
+      "colors": ["#6cb33f", "#4a494d"],
+      "meta": {
+        "url": "https://www.soapui.org/",
+        "source": "https://github.com/brandcolors/feedback/issues/699"
+      }
+    },
+    {
+      "title": "SocialBro",
+      "colors": [
+        "#29c4d0",
+        "#f29556",
+        "#84afa2",
+        "#72c427",
+        "#f24c7c",
+        "#00aaf2"
+      ],
+      "meta": {
+        "url": "http://www.socialbro.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/254"
+      }
+    },
+    { "title": "Softonic", "colors": ["#008ace"], "meta": {} },
+    {
+      "title": "Songkick",
+      "colors": ["#f80046"],
+      "meta": {
+        "url": "http://www.songkick.com/",
+        "source": "http://blog.songkick.com/press-media-assets/"
+      }
+    },
+    {
+      "title": "Sonicbids",
+      "colors": ["#ff6600", "#0c88b1"],
+      "meta": { "url": "http://www.sonicbids.com/" }
+    },
+    {
+      "title": "Sony",
+      "colors": [
+        "#000000",
+        "#7c8285",
+        "#bfbdb0",
+        "#b1b134",
+        "#bbd634",
+        "#dbe3b6",
+        "#b2c8bd",
+        "#165b65",
+        "#697d99",
+        "#96b8db",
+        "#00a4e8",
+        "#a4dbdb",
+        "#fdd666",
+        "#dc9018",
+        "#e31a22",
+        "#df8f2d",
+        "#b24f3f",
+        "#b51f29",
+        "#f58268",
+        "#f4979c"
+      ],
+      "meta": {
+        "url": "https://www.sony.com/",
+        "source": "https://issuu.com/janjaneczek/docs/2008_style_guide_final"
+      }
+    },
+    {
+      "title": "Soulcycle",
+      "colors": ["#fedf00", "#1e1e1e", "#a7a8aa"],
+      "meta": { "url": "https://www.soul-cycle.com/" }
+    },
+    { "title": "SoundCloud", "colors": ["#ff8800", "#ff3300"], "meta": {} },
+    {
+      "title": "Spoken",
+      "colors": ["#fc00c1", "#000000"],
+      "meta": { "url": "https://spoken.co/" }
+    },
+    {
+      "title": "Spotify",
+      "colors": ["#1db954", "#191414"],
+      "meta": {
+        "url": "https://www.spotify.com/",
+        "source": "https://developer.spotify.com/design/"
+      }
+    },
+    { "title": "Sprint", "colors": ["#ffe100"], "meta": {} },
+    {
+      "title": "Sprout Social",
+      "colors": [
+        "#75dd66",
+        "#59cb59",
+        "#2bb656",
+        "#0ca750",
+        "#f3f4f4",
+        "#364141"
+      ],
+      "meta": {
+        "url": "http://sproutsocial.com/",
+        "source": "http://sproutsocial.com/brand-assets"
+      }
+    },
+    {
+      "title": "Square Cash",
+      "colors": ["#28c101"],
+      "meta": { "url": "https://cash.me/" }
+    },
+    { "title": "Squarespace", "colors": ["#222222"], "meta": {} },
+    {
+      "title": "Stack Exchange",
+      "colors": ["#1e5397", "#376db6", "#4ca2da", "#91d8f4"],
+      "meta": {
+        "url": "http://stackexchange.com/",
+        "source": "http://stackoverflow.com/company/logos"
+      }
+    },
+    {
+      "title": "Stack Overflow",
+      "colors": ["#f48024", "#222426", "#bcbbbb"],
+      "meta": {
+        "url": "http://stackoverflow.com/",
+        "source": "http://stackoverflow.com/company/logos"
+      }
+    },
+    {
+      "title": "Staples",
+      "colors": ["#cc0000", "#2c8aec", "#ffcc00"],
+      "meta": {}
+    },
+    {
+      "title": "Starbucks",
+      "colors": ["#00704a"],
+      "meta": {
+        "url": "http://www.starbucks.com/",
+        "source": "http://starbucksocs.com/pdf/WPSlogoGuidelines.pdf"
+      }
+    },
+    {
+      "title": "State Farm",
+      "colors": ["#e1261c"],
+      "meta": { "url": "https://www.statefarm.com/" }
+    },
+    { "title": "Status Chart", "colors": ["#d7584f"], "meta": {} },
+    {
+      "title": "Steam",
+      "colors": ["#00adee", "#000000"],
+      "meta": {
+        "url": "http://steampowered.com/",
+        "source": "https://partner.steamgames.com/public/marketing/Steam_Guidelines_02102016.pdf"
+      }
+    },
+    {
+      "title": "Sterling Hotels",
+      "colors": [
+        "#3b5a6f",
+        "#828a87",
+        "#000000",
+        "#9db7c4",
+        "#ccd7dd",
+        "#838f97",
+        "#002054"
+      ],
+      "meta": {
+        "url": "https://preferredhotelgroup.com/sterling",
+        "source": "https://github.com/brandcolors/feedback/issues/230"
+      }
+    },
+    {
+      "title": "Stockton University",
+      "colors": ["#000000", "#79bde9", "#ffc423", "#bc9b6a", "#a7a9ac"],
+      "meta": {
+        "url": "https://www.stockton.edu/",
+        "source": "http://fliphtml5.com/ivrx/birc/basic"
+      }
+    },
+    {
+      "title": "Storyful",
+      "colors": ["#f97200", "#010101", "#8b8b64", "#bbbdc0"],
+      "meta": { "url": "http://storyful.com/" }
+    },
+    { "title": "Strava", "colors": ["#fc4c02"], "meta": {} },
+    {
+      "title": "Streamable",
+      "colors": ["#0f90fa"],
+      "meta": { "url": "http://streamable.com/" }
+    },
+    { "title": "Stripe", "colors": ["#00afe1"], "meta": {} },
+    {
+      "title": "StubHub",
+      "colors": ["#004b91", "#ff7300"],
+      "meta": { "source": "http://www.stubhub.com/" }
+    },
+    { "title": "StudyBlue", "colors": ["#00afe1"], "meta": {} },
+    { "title": "StumbleUpon", "colors": ["#eb4924"], "meta": {} },
+    {
+      "title": "Subway",
+      "colors": ["#489e3b", "#fabd42", "#cd0a20"],
+      "meta": {
+        "url": "http://www.subway.com/",
+        "source": "http://www.scribd.com/doc/88885955/Brand-Style-Guide"
+      }
+    },
+    {
+      "title": "SugarCRM",
+      "colors": ["#e61718", "#e8e9ea", "#595a5c", "#282828"],
+      "meta": {
+        "url": "http://www.sugarcrm.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/249"
+      }
+    },
+    {
+      "title": "SunTrust",
+      "colors": ["#00447c", "#fdb913", "#e36f1e"],
+      "meta": {
+        "url": "https://www.suntrust.com/",
+        "source": "https://upload.wikimedia.org/wikipedia/en/3/32/SunTrust_Logo.svg"
+      }
+    },
+    {
+      "title": "SuperShuttle",
+      "colors": ["#4285f4", "#ffcd1a"],
+      "meta": { "url": "https://www.supershuttle.com/" }
+    },
+    {
+      "title": "Swarm",
+      "colors": ["#f06d1f", "#ffa633"],
+      "meta": { "url": "https://www.swarmapp.com/" }
+    },
+    {
+      "title": "Svelte",
+      "colors": ["#ff3e00", "#40b3ff", "#676778"],
+      "meta": {}
+    },
+    { "title": "T-Mobile", "colors": ["#e20074"], "meta": {} },
+    {
+      "title": "Tagstr",
+      "colors": ["#e74635"],
+      "meta": {
+        "url": "https://tagstr.co/",
+        "source": "https://github.com/brandcolors/feedback/issues/271"
+      }
+    },
+    {
+      "title": "Taiga",
+      "colors": ["#444444", "#b8b8b8", "#72a114", "#9dce0a", "#879b89"],
+      "meta": { "url": "https://taiga.io/" }
+    },
+    {
+      "title": "Target",
+      "colors": ["#cc0000"],
+      "meta": {
+        "url": "http://www.target.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/415"
+      }
+    },
+    { "title": "Technorati", "colors": ["#339900"], "meta": {} },
+    {
+      "title": "TED",
+      "colors": ["#e62b1e"],
+      "meta": {
+        "url": "http://www.ted.com/",
+        "source": "http://developer.ted.com/Branding_Guidelines"
+      }
+    },
+    {
+      "title": "Telegram",
+      "colors": ["#0088cc"],
+      "meta": { "url": "https://telegram.org/" }
+    },
+    {
+      "title": "Telfie",
+      "colors": ["#e92c4c", "#c82641"],
+      "meta": { "url": "http://telfie.com/" }
+    },
+    {
+      "title": "Temple",
+      "colors": ["#a41e35", "#222222", "#899197"],
+      "meta": {
+        "url": "https://www.temple.edu/",
+        "source": "http://branding.temple.edu/brand-guidelines"
+      }
+    },
+    {
+      "title": "Tesco",
+      "colors": ["#ee1c2e", "#00539f"],
+      "meta": { "url": "http://www.tesco.com/" }
+    },
+    {
+      "title": "Tesla",
+      "colors": ["#cc0000"],
+      "meta": { "url": "http://www.teslamotors.com/" }
+    },
+    {
+      "title": "Texas A&M University",
+      "colors": [
+        "#500000",
+        "#003c71",
+        "#5b6236",
+        "#744f28",
+        "#998542",
+        "#332c2c",
+        "#707373",
+        "#d6d3c4"
+      ],
+      "meta": {
+        "url": "http://www.tamu.edu/",
+        "source": "http://brandguide.tamu.edu/colors.html"
+      }
+    },
+    {
+      "title": "Texas Tech University",
+      "colors": ["#cc0000", "#000000"],
+      "meta": {
+        "url": "http://www.ttu.edu/",
+        "source": "https://www.depts.ttu.edu/communications/identityguidelines/idguidelines/ttu/elements/color.php"
+      }
+    },
+    {
+      "title": "The Audience Awards",
+      "colors": ["#ee8421", "#8c8a8a", "#222222"],
+      "meta": { "url": "http://theaudienceawards.com/" }
+    },
+    {
+      "title": "The College of New Jersey",
+      "colors": ["#293f6f", "#a67a00"],
+      "meta": {
+        "url": "http://tcnj.pages.tcnj.edu/",
+        "source": "http://www.tcnjathletics.com/sports/2013/12/5/GEN_1205133829.aspx?id=1449"
+      }
+    },
+    {
+      "title": "The Next Web",
+      "colors": [
+        "#ff3c1f",
+        "#26313b",
+        "#4e5860",
+        "#a6abaf",
+        "#d9e0e2",
+        "#fafbfc"
+      ],
+      "meta": {}
+    },
+    {
+      "title": "The Ritz-Carlton",
+      "colors": ["#006b95", "#4f5b65", "#b3812a", "#a01a1f"],
+      "meta": {
+        "url": "http://www.ritzcarlton.com/",
+        "source": "http://www.marriottbrandworks.com/pdfs/learnit_pdfs/RZ/RC_Ad_Standards_1004.pdf"
+      }
+    },
+    {
+      "title": "The Sun",
+      "colors": ["#ed1c24", "#b90c13"],
+      "meta": {
+        "url": "http://www.thesun.co.uk/",
+        "source": "https://github.com/thebox-newsuk/brand-colors"
+      }
+    },
+    {
+      "title": "The Sun Goals",
+      "colors": ["#00745e", "#086556"],
+      "meta": {
+        "url": "http://www.thesun.co.uk/goals/",
+        "source": "https://github.com/thebox-newsuk/brand-colors"
+      }
+    },
+    {
+      "title": "The Sun Perks",
+      "colors": ["#8560a8", "#431c69"],
+      "meta": {
+        "url": "http://perks.thesun.co.uk/",
+        "source": "https://github.com/thebox-newsuk/brand-colors"
+      }
+    },
+    {
+      "title": "The Times",
+      "colors": ["#000000"],
+      "meta": { "url": "http://www.thetimes.co.uk/" }
+    },
+    {
+      "title": "Thomson Reuters",
+      "colors": [
+        "#ff8000",
+        "#555555",
+        "#444444",
+        "#666666",
+        "#cccccc",
+        "#e9e9e9",
+        "#f7f7f7"
+      ],
+      "meta": { "url": "http://thomsonreuters.com/" }
+    },
+    {
+      "title": "TiVo",
+      "colors": [
+        "#da3d34",
+        "#00a480",
+        "#ed9f40",
+        "#6a76ac",
+        "#17170e",
+        "#534b38",
+        "#a6a480"
+      ],
+      "meta": {
+        "url": "http://www.tivo.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/231"
+      }
+    },
+    {
+      "title": "Totaljobs",
+      "colors": ["#66bd00"],
+      "meta": { "url": "https://www.totaljobs.com/" }
+    },
+    { "title": "Treehouse", "colors": ["#6fbc6d", "#47535b"], "meta": {} },
+    {
+      "title": "Trello",
+      "colors": [
+        "#0079bf",
+        "#70b500",
+        "#ff9f1a",
+        "#eb5a46",
+        "#f2d600",
+        "#c377e0",
+        "#ff78cb",
+        "#00c2e0",
+        "#51e898",
+        "#c4c9cc"
+      ],
+      "meta": {
+        "url": "https://trello.com/",
+        "source": "https://trello.com/about/branding"
+      }
+    },
+    {
+      "title": "TripAdvisor",
+      "colors": ["#00af87"],
+      "meta": { "url": "http://www.tripadvisor.com/" }
+    },
+    { "title": "Trulia", "colors": ["#5eab1f"], "meta": {} },
+    {
+      "title": "Trustpilot",
+      "colors": [
+        "#e12729",
+        "#f37324",
+        "#f8cc1b",
+        "#72b043",
+        "#007f4e",
+        "#c8c8c8"
+      ],
+      "meta": {
+        "url": "https://www.trustpilot.com/",
+        "source": "https://support.trustpilot.com/hc/en-us/articles/206289947-Trustpilot-Brand-Style-Guide"
+      }
+    },
+    { "title": "Tumblr", "colors": ["#35465c"], "meta": {} },
+    {
+      "title": "Tunngle",
+      "colors": ["#c30f24"],
+      "meta": { "url": "http://www.tunngle.net/" }
+    },
+    {
+      "title": "TurboTax",
+      "colors": ["#355ebe", "#d52b1d"],
+      "meta": {
+        "url": "https://turbotax.intuit.com/",
+        "source": "http://blog.turbotax.intuit.com/media-lounge/"
+      }
+    },
+    {
+      "title": "TwentyThree",
+      "colors": ["#1ec95b", "#043623", "#eff5f0"],
+      "meta": {
+        "url": "https://www.twentythree.net/",
+        "source": "http://brand.twentythree.net/"
+      }
+    },
+    {
+      "title": "Twitch",
+      "colors": ["#6441a5", "#b9a3e3", "#262626", "#f1f1f1"],
+      "meta": {
+        "url": "https://www.twitch.tv/",
+        "source": "https://www.twitch.tv/p/brandassets"
+      }
+    },
+    {
+      "title": "Twitter",
+      "colors": [
+        "#1da1f2",
+        "#14171a",
+        "#657786",
+        "#aab8c2",
+        "#e1e8ed",
+        "#f5f8fa"
+      ],
+      "meta": {
+        "url": "https://twitter.com/",
+        "source": "https://brand.twitter.com/"
+      }
+    },
+    { "title": "Typekit", "colors": ["#98ce1e"], "meta": {} },
+    {
+      "title": "Typepad",
+      "colors": ["#d2de61"],
+      "meta": { "url": "http://www.typepad.com/" }
+    },
+    {
+      "title": "TYPO3",
+      "colors": ["#ff8700"],
+      "meta": {
+        "url": "http://typo3.org/",
+        "source": "http://typo3.org/about/the-brand/style-guide/the-typo3-colors/"
+      }
+    },
+    {
+      "title": "Uber",
+      "colors": ["#09091a", "#c0c0c8", "#1fbad6"],
+      "meta": {
+        "url": "https://www.uber.com",
+        "source": "http://brand.uber.com"
+      }
+    },
+    {
+      "title": "Ubuntu",
+      "colors": [
+        "#dd4814",
+        "#77216f",
+        "#5e2750",
+        "#2c001e",
+        "#aea79f",
+        "#333333"
+      ],
+      "meta": {}
+    },
+    {
+      "title": "UC Berkeley",
+      "colors": ["#003262", "#3b7ea1", "#fdb515", "#c4820e"],
+      "meta": {
+        "url": "http://www.berkeley.edu/",
+        "source": "http://brand.berkeley.edu/colors/"
+      }
+    },
+    {
+      "title": "UCSF",
+      "colors": ["#052049", "#18a3ac", "#90bd31", "#178ccb", "#f48024"],
+      "meta": {
+        "url": "http://www.ucsf.edu",
+        "source": "http://identity.ucsf.edu/color"
+      }
+    },
+    {
+      "title": "United Way",
+      "colors": [
+        "#10167f",
+        "#fe230a",
+        "#ff9600",
+        "#000064",
+        "#b41428",
+        "#f57814",
+        "#e6d7aa",
+        "#505050",
+        "#f0e6c8",
+        "#969696",
+        "#7c81b8",
+        "#ff967d",
+        "#ffc87d"
+      ],
+      "meta": {
+        "url": "http://www.unitedway.org/",
+        "source": "https://github.com/brandcolors/feedback/issues/242"
+      }
+    },
+    {
+      "title": "Unity",
+      "colors": [
+        "#222c37",
+        "#00cccc",
+        "#fff600",
+        "#ff0066",
+        "#19e3b1",
+        "#ff7f33",
+        "#b83c82"
+      ],
+      "meta": {
+        "url": "http://unity3d.com/",
+        "source": "http://unity3d.com/public-relations/brand"
+      }
+    },
+    {
+      "title": "Universität Hamburg",
+      "colors": ["#e2001a", "#009cd1", "#3b515b"],
+      "meta": {
+        "url": "https://www.uni-hamburg.de/",
+        "source": "https://www.uni-hamburg.de/beschaeftigtenportal/services/oeffentlichkeitsarbeit/corporate-design/manual/corporate-manual-2016.pdf"
+      }
+    },
+    {
+      "title": "University at Albany",
+      "colors": ["#46166b", "#eeb211", "#006c68", "#97a4af"],
+      "meta": {
+        "url": "https://www.albany.edu/",
+        "source": "https://www.albany.edu/communicationsmarketing/files/Graphic-Manual-2017.pdf"
+      }
+    },
+    {
+      "title": "University at Buffalo",
+      "colors": [
+        "#005bbb",
+        "#e56a54",
+        "#ffc72c",
+        "#ebec00",
+        "#00a69c",
+        "#990000",
+        "#ad841f",
+        "#6da04b",
+        "#006570",
+        "#2f9fd0",
+        "#002f56",
+        "#e4e4e4",
+        "#666666"
+      ],
+      "meta": {
+        "url": "http://www.buffalo.edu/",
+        "source": "http://www.buffalo.edu/brand/creative/color/color-palette.html"
+      }
+    },
+    {
+      "title": "University of Alberta",
+      "colors": ["#007c41", "#ffdb05"],
+      "meta": {
+        "url": "https://www.ualberta.ca/",
+        "source": "http://www.toolkit.ualberta.ca/VisualIdentityGuidelines/OurColours.aspx"
+      }
+    },
+    {
+      "title": "University of Arizona",
+      "colors": ["#cc0033", "#003366"],
+      "meta": {
+        "url": "http://www.arizona.edu/",
+        "source": "http://licensing.arizona.edu/sites/licensing/files/ua_id_guide_0.pdf"
+      }
+    },
+    {
+      "title": "University of Cambridge",
+      "colors": [
+        "#d6083b",
+        "#0072cf",
+        "#ea7125",
+        "#55a51c",
+        "#8f2bbc",
+        "#00b1c1"
+      ],
+      "meta": {
+        "url": "https://www.cam.ac.uk/",
+        "source": "https://www.cam.ac.uk/system/files/identity_guidelines.pdf"
+      }
+    },
+    {
+      "title": "University of Cincinnati",
+      "colors": ["#e00122", "#000000"],
+      "meta": {
+        "url": "https://www.uc.edu/",
+        "source": "https://www.uc.edu/ucomm/brand.html"
+      }
+    },
+    {
+      "title": "University of Dayton",
+      "colors": [
+        "#ce1141",
+        "#004b8d",
+        "#000000",
+        "#faf2f3",
+        "#d1cdb8",
+        "#cf0a2c",
+        "#0082ca",
+        "#199051",
+        "#e76829",
+        "#ffdd00"
+      ],
+      "meta": {
+        "url": "https://udayton.edu/",
+        "source": "https://udayton.edu/brand/colors.php"
+      }
+    },
+    {
+      "title": "University of Florida",
+      "colors": ["#fa4616", "#0021a5"],
+      "meta": {
+        "url": "http://www.ufl.edu/",
+        "source": "http://identity.ufl.edu/color/"
+      }
+    },
+    {
+      "title": "University of Illinois Urbana-Champaign",
+      "colors": ["#131f33", "#fa6300"],
+      "meta": {
+        "url": "http://illinois.edu/",
+        "source": "http://identitystandards.illinois.edu/graphicstandardsmanual/generalguidelines/colors.html"
+      }
+    },
+    {
+      "title": "University of Kentucky",
+      "colors": ["#005daa"],
+      "meta": {
+        "url": "http://www.uky.edu/",
+        "source": "https://www.uky.edu/Graphics/WebGraphicStandards.pdf"
+      }
+    },
+    {
+      "title": "University of Michigan",
+      "colors": ["#00274c", "#ffcb05"],
+      "meta": {
+        "url": "http://umich.edu/",
+        "source": "https://vpcomm.umich.edu/brand/style-guide/design-principles/colors"
+      }
+    },
+    {
+      "title": "University of North Carolina",
+      "colors": [
+        "#4b9cd3",
+        "#007fae",
+        "#13294b",
+        "#e1e1e1",
+        "#767676",
+        "#151515"
+      ],
+      "meta": {
+        "url": "https://www.unc.edu/",
+        "source": "https://identity.unc.edu/colors/"
+      }
+    },
+    {
+      "title": "University of Oregon",
+      "colors": ["#154733", "#fee123"],
+      "meta": {
+        "url": "https://uoregon.edu/",
+        "source": "https://communications.uoregon.edu/colors"
+      }
+    },
+    {
+      "title": "University of Rochester",
+      "colors": ["#ffd100", "#003b71"],
+      "meta": {
+        "url": "https://www.rochester.edu/",
+        "source": "https://www.rochester.edu/creativeservices/identityguide_2017.pdf"
+      }
+    },
+    {
+      "title": "University of Texas",
+      "colors": [
+        "#bf5700",
+        "#333f48",
+        "#005f86",
+        "#43695b",
+        "#f2a900",
+        "#382f2d",
+        "#d6d2c4"
+      ],
+      "meta": {
+        "url": "https://www.utexas.edu/",
+        "source": "https://brand.utexas.edu/visual-identity/colors"
+      }
+    },
+    {
+      "title": "University of Victoria",
+      "colors": ["#005493", "#f5aa1c", "#c63527", "#002754"],
+      "meta": {
+        "url": "http://www.uvic.ca/",
+        "source": "http://www.uvic.ca/brand/look-feel/colour/palette/index.php"
+      }
+    },
+    {
+      "title": "University of Washington",
+      "colors": ["#4b2e83", "#b7a57a", "#85754d"],
+      "meta": {
+        "url": "http://www.washington.edu/",
+        "source": "https://www.washington.edu/brand/graphic-elements/primary-color-palette/"
+      }
+    },
+    {
+      "title": "University of Waterloo",
+      "colors": ["#ffd54f", "#000"],
+      "meta": {
+        "url": "https://uwaterloo.ca/",
+        "source": "https://uwaterloo.ca/brand/visual-expression/colour-palette"
+      }
+    },
+    {
+      "title": "University of Wisconsin-Milwaukee",
+      "colors": [
+        "#ffbd00",
+        "#000000",
+        "#98c646",
+        "#694d88",
+        "#5382af",
+        "#d06d34",
+        "#5f9a38",
+        "#474d52"
+      ],
+      "meta": {
+        "url": "http://uwm.edu/",
+        "source": "http://uwm.edu/branding/uwms-brand/uwm-colors/"
+      }
+    },
+    { "title": "Univision", "colors": ["#c822b0"], "meta": {} },
+    {
+      "title": "UPS",
+      "colors": ["#351c15", "#ffb500", "#64a70b"],
+      "meta": {
+        "url": "https://www.ups.com/",
+        "source": "https://www.upsbrandexchange.com/brUpsCarbonNeutral.awsp"
+      }
+    },
+    {
+      "title": "USPS",
+      "colors": ["#333366", "#e71921", "#218748"],
+      "meta": {
+        "url": "https://www.usps.com/",
+        "source": "https://www.usps.com/styleguide/design/color-palette.htm"
+      }
+    },
+    { "title": "Ustream", "colors": ["#3388ff"], "meta": {} },
+    {
+      "title": "Verizon",
+      "colors": ["#ff0000", "#f2f2f2", "#3285dc"],
+      "meta": {}
+    },
+    {
+      "title": "Viadeo",
+      "colors": ["#f07355"],
+      "meta": {
+        "url": "http://viadeo.com/",
+        "source": "http://corporate.viadeo.com/en/media/resources/"
+      }
+    },
+    {
+      "title": "Viber",
+      "colors": ["#59267c", "#8f5db7", "#e2d4e7", "#a5cfd5", "#81cd50"],
+      "meta": {
+        "url": "http://www.viber.com/",
+        "source": "http://www.color-hex.com/color-palette/4740"
+      }
+    },
+    {
+      "title": "Vidme",
+      "colors": [
+        "#f82a53",
+        "#111111",
+        "#f5f5f5",
+        "#9f2af8",
+        "#aaaaaa",
+        "#dff0d8"
+      ],
+      "meta": { "url": "https://vid.me/", "source": "https://vid.me/media" }
+    },
+    {
+      "title": "Viki",
+      "colors": ["#3c9cd7", "#d24663"],
+      "meta": { "url": "http://www.viki.com/" }
+    },
+    { "title": "Vimeo", "colors": ["#162221", "#1ab7ea"], "meta": {} },
+    { "title": "Vine", "colors": ["#00b488"], "meta": {} },
+    { "title": "Virb", "colors": ["#1e91d0"], "meta": {} },
+    { "title": "Virgin Media", "colors": ["#c3092d", "#222221"], "meta": {} },
+    {
+      "title": "Virgin Money",
+      "colors": [
+        "#cc0000",
+        "#333333",
+        "#a93c3b",
+        "#a896a0",
+        "#7a3671",
+        "#bd1d65"
+      ],
+      "meta": {
+        "url": "https://virginmoney.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/455"
+      }
+    },
+    {
+      "title": "Visa",
+      "colors": ["#1a1f71", "#f7b600"],
+      "meta": {
+        "url": "https://www.visa.com/",
+        "source": "https://www.visaeurope.com/receiving-payments/pos_branding"
+      }
+    },
+    {
+      "title": "VisualCV",
+      "colors": ["#31577a"],
+      "meta": {
+        "url": "https://www.visualcv.com/",
+        "source": "https://www.visualcv.com/www/press/"
+      }
+    },
+    {
+      "title": "Visually",
+      "colors": ["#14acf2", "#f04494", "#0ac578"],
+      "meta": {
+        "url": "http://visual.ly/",
+        "source": "http://press.visual.ly/"
+      }
+    },
+    { "title": "VKontakte", "colors": ["#45668e"], "meta": {} },
+    {
+      "title": "Vodafone",
+      "colors": [
+        "#e60000",
+        "#4a4d4e",
+        "#9c2aa0",
+        "#5e2750",
+        "#00b0ca",
+        "#007c92",
+        "#a8b400",
+        "#fecb00",
+        "#eb9800",
+        "#000000"
+      ],
+      "meta": {
+        "url": "http://www.vodafone.com/content/index.html",
+        "source": "http://www.webguruafrica.com/vodacom-rhombus-ci/Vodafone%20Digital%20Guidelines%20FINAL%2014.8.13.pdf"
+      }
+    },
+    {
+      "title": "Volvo",
+      "colors": [
+        "#003057",
+        "#115740",
+        "#65665c",
+        "#425563",
+        "#517891",
+        "#212721"
+      ],
+      "meta": {
+        "url": "http://www.volvocars.com",
+        "source": "http://www.slideshare.net/ariellasm/volvo-brand-guidelines?related=1"
+      }
+    },
+    {
+      "title": "Vue.js",
+      "colors": ["#42b883", "#35495e"],
+      "meta": {
+        "url": "https://vuejs.org/",
+        "source": "https://github.com/vuejs/vuejs.org/blob/master/assets/logo.ai"
+      }
+    },
+    {
+      "title": "Wake Forest University",
+      "colors": [
+        "#9e7e38",
+        "#000000",
+        "#82231c",
+        "#511536",
+        "#443e67",
+        "#375669",
+        "#456525",
+        "#59786c",
+        "#3d3c1d",
+        "#625750"
+      ],
+      "meta": {
+        "url": "http://www.wfu.edu/",
+        "source": "http://identitystandards.wfu.edu/design-guidelines/colors-paper-stock/"
+      }
+    },
+    {
+      "title": "Walgreens",
+      "colors": ["#e31837", "#f37520", "#489cd4", "#2774a6", "#35393d"],
+      "meta": {
+        "url": "http://www.walgreens.com/",
+        "source": "https://developer.walgreens.com/sites/default/files/API_IntegrationMarketingStyleGuide_101513.pdf"
+      }
+    },
+    {
+      "title": "Walmart",
+      "colors": [
+        "#007dc6",
+        "#79b9e7",
+        "#f47421",
+        "#76c143",
+        "#ffc120",
+        "#e7f0f7",
+        "#f2f8fd",
+        "#222222",
+        "#444444"
+      ],
+      "meta": {
+        "url": "http://www.walmart.com/",
+        "source": "http://walmartlabs.github.io/web-style-guide/"
+      }
+    },
+    {
+      "title": "Warby Parker",
+      "colors": ["#414b56", "#00a2e1"],
+      "meta": { "url": "https://www.warbyparker.com/" }
+    },
+    {
+      "title": "Wave Apps",
+      "colors": ["#1c2d37", "#4ec7c4", "#00959f", "#3b9bcc"],
+      "meta": { "url": "https://www.waveapps.com/" }
+    },
+    {
+      "title": "webZunder",
+      "colors": ["#eea642"],
+      "meta": {
+        "url": "https://www.webzunder.com/",
+        "source": "https://github.com/brandcolors/feedback/issues/435"
+      }
+    },
+    {
+      "title": "WeChat",
+      "colors": ["#7bb32e"],
+      "meta": { "url": "http://www.wechat.com/" }
+    },
+    {
+      "title": "Wendy’s",
+      "colors": ["#e2203d", "#199fda"],
+      "meta": { "url": "https://www.wendys.com/" }
+    },
+    {
+      "title": "Western Digital",
+      "colors": [
+        "#005195",
+        "#028948",
+        "#ffd400",
+        "#0067b3",
+        "#9d0a0e",
+        "#003369"
+      ],
+      "meta": {
+        "url": "http://www.wdc.com/",
+        "source": "http://www.wdbrand.com/standards/guidelines/WD_Guidelines.pdf"
+      }
+    },
+    {
+      "title": "WhatsApp",
+      "colors": [
+        "#075e54",
+        "#128c7e",
+        "#25d366",
+        "#dcf8c6",
+        "#34b7f1",
+        "#ece5dd"
+      ],
+      "meta": {
+        "url": "https://www.whatsapp.com/",
+        "source": "https://www.whatsappbrand.com/"
+      }
+    },
+    {
+      "title": "WhatsBroadcast",
+      "colors": [
+        "#4aae20",
+        "#6cc751",
+        "#225f1e",
+        "#f8cc07",
+        "#ff9300",
+        "#e44436",
+        "#cd3292",
+        "#37aef3",
+        "#0076ba",
+        "#005888",
+        "#8732cd",
+        "#33482c"
+      ],
+      "meta": {
+        "url": "https://www.whatsbroadcast.com/",
+        "source": "https://www.whatsbroadcast.com/de/brand-ressources/"
+      }
+    },
+    {
+      "title": "Whoosnap",
+      "colors": ["#2fa5d6", "#b52f2c"],
+      "meta": { "url": "http://whoosnap.com/" }
+    },
+    {
+      "title": "Wikimedia",
+      "colors": ["#339966", "#0063bf", "#990000"],
+      "meta": {
+        "url": "https://www.wikimedia.org/",
+        "source": "https://meta.wikimedia.org/wiki/Brand#Using_the_Wikimedia_colors"
+      }
+    },
+    {
+      "title": "Wikipedia",
+      "colors": ["#000000", "#636466", "#939598", "#c7c8ca"],
+      "meta": {
+        "url": "https://www.wikipedia.org/",
+        "source": "https://wikimediafoundation.org/wiki/Visual_identity_guidelines#toc-colorvalues"
+      }
+    },
+    {
+      "title": "Windows",
+      "colors": [
+        "#0078d7",
+        "#002050",
+        "#ffb900",
+        "#d83b01",
+        "#e81123",
+        "#b4009e",
+        "#5c2d91",
+        "#008272",
+        "#107c10"
+      ],
+      "meta": {
+        "url": "https://www.microsoft.com/windows/",
+        "source": "https://github.com/brandcolors/feedback/issues/474"
+      }
+    },
+    { "title": "Windows Phone", "colors": ["#68217a"], "meta": {} },
+    {
+      "title": "WooCommerce",
+      "colors": ["#96588a", "#3c3c3c", "#71b02f"],
+      "meta": {
+        "url": "https://woocommerce.com/",
+        "source": "https://woocommerce.com/style-guide/#sg-palette"
+      }
+    },
+    { "title": "Wooga", "colors": ["#5b009c"], "meta": {} },
+    {
+      "title": "WordPress",
+      "colors": ["#21759b", "#d54e21", "#464646"],
+      "meta": {}
+    },
+    {
+      "title": "WordPress.com",
+      "colors": [
+        "#0087be",
+        "#78dcfa",
+        "#00aadc",
+        "#005082",
+        "#87a6bc",
+        "#f3f6f8",
+        "#e9eff3",
+        "#e9eff3",
+        "#a8bece",
+        "#668eaa",
+        "#4f748e",
+        "#3d596d",
+        "#2e4453",
+        "#d54e21",
+        "#f0821e",
+        "#4ab866",
+        "#f0b849",
+        "#d94f4f"
+      ],
+      "meta": {
+        "url": "https://wordpress.com/",
+        "source": "https://wordpress.com/design-handbook/colors/"
+      }
+    },
+    {
+      "title": "World Organisation of the Scout Movement",
+      "colors": [
+        "#622599",
+        "#0054a0",
+        "#aaba0a",
+        "#dd7500",
+        "#e23d28",
+        "#3d8e33",
+        "#3399ff",
+        "#ff3399",
+        "#fcd116",
+        "#999999"
+      ],
+      "meta": { "url": "http://scout.org/" }
+    },
+    {
+      "title": "Worldline",
+      "colors": ["#0066a1"],
+      "meta": { "url": "http://worldline.com" }
+    },
+    {
+      "title": "Wufoo",
+      "colors": ["#e66760", "#8c88cd", "#69c5e4", "#ffdf8b", "#61e064"],
+      "meta": { "source": "http://www.wufoo.com/" }
+    },
+    { "title": "Wunderlist", "colors": ["#2b96f1"], "meta": {} },
+    {
+      "title": "WWE",
+      "colors": ["#d7182a"],
+      "meta": { "source": "http://www.wwe.com/" }
+    },
+    {
+      "title": "Xavier University",
+      "colors": ["#0c2340", "#9ea2a2", "#0099cc"],
+      "meta": {
+        "url": "https://www.xavier.edu/",
+        "source": "https://www.xavier.edu/brand/design-elements.cfm"
+      }
+    },
+    { "title": "XBOX", "colors": ["#52b043"], "meta": {} },
+    {
+      "title": "XDA Developers",
+      "colors": ["#f59714"],
+      "meta": { "url": "https://www.xda-developers.com/" }
+    },
+    { "title": "XING", "colors": ["#026466", "#cfdc00"], "meta": {} },
+    {
+      "title": "XY Gaming",
+      "colors": ["#3299cc", "#333333"],
+      "meta": {
+        "url": "http://xygaming.com/",
+        "source": "http://xygaming.com/about"
+      }
+    },
+    {
+      "title": "Y Combinator",
+      "colors": ["#ff4000"],
+      "meta": {
+        "url": "https://www.ycombinator.com/",
+        "source": "https://www.ycombinator.com/press/#assets"
+      }
+    },
+    {
+      "title": "Yahoo!",
+      "colors": ["#410093"],
+      "meta": {
+        "url": "https://www.yahoo.com/",
+        "source": "https://info.yahoo.com/press-center/logos-images"
+      }
+    },
+    { "title": "Yandex", "colors": ["#ffcc00"], "meta": {} },
+    {
+      "title": "Yellow Pages",
+      "colors": ["#ffd400", "#000000"],
+      "meta": { "url": "http://www.yellowpages.com/" }
+    },
+    { "title": "Yelp", "colors": ["#af0606"], "meta": {} },
+    {
+      "title": "Yii Framework",
+      "colors": ["#d8582b", "#16a314", "#3b6fba"],
+      "meta": {
+        "url": "http://www.yiiframework.com/",
+        "source": "http://www.yiiframework.com/logo/"
+      }
+    },
+    {
+      "title": "Yo",
+      "colors": [
+        "#9b59b6",
+        "#e74c3c",
+        "#8e44ad",
+        "#2980b9",
+        "#f1c40f",
+        "#16a085",
+        "#34495e",
+        "#3498db",
+        "#2ecc71",
+        "#1abc9c"
+      ],
+      "meta": {
+        "url": "http://www.justyo.co/",
+        "source": "http://docs.justyo.co/v1.0/docs/ui-design-guidelines"
+      }
+    },
+    {
+      "title": "YouTube",
+      "colors": ["#ff0000", "#282828"],
+      "meta": {
+        "url": "https://www.youtube.com/",
+        "source": "https://www.youtube.com/yt/about/brand-resources/#logos-icons-colors"
+      }
+    },
+    {
+      "title": "Zapier",
+      "colors": [
+        "#ff4a00",
+        "#fd7622",
+        "#ffc43e",
+        "#5f6c72",
+        "#499df3",
+        "#13d0ab"
+      ],
+      "meta": {
+        "url": "https://zapier.com/",
+        "source": "https://zapier.com/about/brand/"
+      }
+    },
+    {
+      "title": "Zendesk",
+      "colors": [
+        "#00363d",
+        "#f79a3e",
+        "#eb6651",
+        "#30aabc",
+        "#eb4962",
+        "#37b8af",
+        "#78a300",
+        "#f0ca28"
+      ],
+      "meta": {
+        "url": "https://www.zendesk.com/",
+        "source": "https://www.zendesk.com/company/brand-assets/"
+      }
+    },
+    { "title": "Zerply", "colors": ["#9dbc7a"], "meta": {} },
+    {
+      "title": "Zillow",
+      "colors": ["#1277e1"],
+      "meta": { "url": "http://www.zillow.com/" }
+    },
+    {
+      "title": "Zomato",
+      "colors": ["#cb202d", "#2d2d2d", "#f4f4f2"],
+      "meta": { "source": "https://www.zomato.com/" }
+    },
+    { "title": "Zopim", "colors": ["#ff9d3b"], "meta": {} }
+  ]
 }

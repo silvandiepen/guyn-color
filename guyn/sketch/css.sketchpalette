@@ -1,0 +1,1133 @@
+{
+  "compatibleVersion": "2.0",
+  "pluginVersion": "2.22",
+  "colors": [
+    {
+      "name": "Aliceblue",
+      "red": 0.9375,
+      "green": 0.96875,
+      "blue": 0.99609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Antiquewhite",
+      "red": 0.9765625,
+      "green": 0.91796875,
+      "blue": 0.83984375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Aqua",
+      "red": 0,
+      "green": 0.99609375,
+      "blue": 0.99609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Aquamarine",
+      "red": 0.49609375,
+      "green": 0.99609375,
+      "blue": 0.828125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Azure",
+      "red": 0.9375,
+      "green": 0.99609375,
+      "blue": 0.99609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Beige",
+      "red": 0.95703125,
+      "green": 0.95703125,
+      "blue": 0.859375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Bisque",
+      "red": 0.99609375,
+      "green": 0.890625,
+      "blue": 0.765625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Black",
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Blanchedalmond",
+      "red": 0.99609375,
+      "green": 0.91796875,
+      "blue": 0.80078125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Blue",
+      "red": 0,
+      "green": 0,
+      "blue": 0.99609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Blueviolet",
+      "red": 0.5390625,
+      "green": 0.16796875,
+      "blue": 0.8828125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Brown",
+      "red": 0.64453125,
+      "green": 0.1640625,
+      "blue": 0.1640625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Burlywood",
+      "red": 0.8671875,
+      "green": 0.71875,
+      "blue": 0.52734375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Cadetblue",
+      "red": 0.37109375,
+      "green": 0.6171875,
+      "blue": 0.625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Chartreuse",
+      "red": 0.49609375,
+      "green": 0.99609375,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Chocolate",
+      "red": 0.8203125,
+      "green": 0.41015625,
+      "blue": 0.1171875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Coral",
+      "red": 0.99609375,
+      "green": 0.49609375,
+      "blue": 0.3125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Cornflowerblue",
+      "red": 0.390625,
+      "green": 0.58203125,
+      "blue": 0.92578125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Cornsilk",
+      "red": 0.99609375,
+      "green": 0.96875,
+      "blue": 0.859375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Crimson",
+      "red": 0.859375,
+      "green": 0.078125,
+      "blue": 0.234375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Cyan",
+      "red": 0,
+      "green": 0.99609375,
+      "blue": 0.99609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkblue",
+      "red": 0,
+      "green": 0,
+      "blue": 0.54296875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkcyan",
+      "red": 0,
+      "green": 0.54296875,
+      "blue": 0.54296875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkgoldenrod",
+      "red": 0.71875,
+      "green": 0.5234375,
+      "blue": 0.04296875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkgray",
+      "red": 0.66015625,
+      "green": 0.66015625,
+      "blue": 0.66015625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkgreen",
+      "red": 0,
+      "green": 0.390625,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkkhaki",
+      "red": 0.73828125,
+      "green": 0.71484375,
+      "blue": 0.41796875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkmagenta",
+      "red": 0.54296875,
+      "green": 0,
+      "blue": 0.54296875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkolivegreen",
+      "red": 0.33203125,
+      "green": 0.41796875,
+      "blue": 0.18359375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkorange",
+      "red": 0.99609375,
+      "green": 0.546875,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkorchid",
+      "red": 0.59765625,
+      "green": 0.1953125,
+      "blue": 0.796875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkred",
+      "red": 0.54296875,
+      "green": 0,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darksalmon",
+      "red": 0.91015625,
+      "green": 0.5859375,
+      "blue": 0.4765625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkseagreen",
+      "red": 0.55859375,
+      "green": 0.734375,
+      "blue": 0.55859375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkslateblue",
+      "red": 0.28125,
+      "green": 0.23828125,
+      "blue": 0.54296875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkslategray",
+      "red": 0.18359375,
+      "green": 0.30859375,
+      "blue": 0.30859375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkturquoise",
+      "red": 0,
+      "green": 0.8046875,
+      "blue": 0.81640625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Darkviolet",
+      "red": 0.578125,
+      "green": 0,
+      "blue": 0.82421875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Deeppink",
+      "red": 0.99609375,
+      "green": 0.078125,
+      "blue": 0.57421875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Deepskyblue",
+      "red": 0,
+      "green": 0.74609375,
+      "blue": 0.99609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Dimgray",
+      "red": 0.41015625,
+      "green": 0.41015625,
+      "blue": 0.41015625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Dodgerblue",
+      "red": 0.1171875,
+      "green": 0.5625,
+      "blue": 0.99609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Firebrick",
+      "red": 0.6953125,
+      "green": 0.1328125,
+      "blue": 0.1328125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Floralwhite",
+      "red": 0.99609375,
+      "green": 0.9765625,
+      "blue": 0.9375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Forestgreen",
+      "red": 0.1328125,
+      "green": 0.54296875,
+      "blue": 0.1328125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Fuchsia",
+      "red": 0.99609375,
+      "green": 0,
+      "blue": 0.99609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Gainsboro",
+      "red": 0.859375,
+      "green": 0.859375,
+      "blue": 0.859375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Ghostwhite",
+      "red": 0.96875,
+      "green": 0.96875,
+      "blue": 0.99609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Gold",
+      "red": 0.99609375,
+      "green": 0.83984375,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Goldenrod",
+      "red": 0.8515625,
+      "green": 0.64453125,
+      "blue": 0.125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Gray",
+      "red": 0.5,
+      "green": 0.5,
+      "blue": 0.5,
+      "alpha": 1
+    },
+
+    {
+      "name": "Green",
+      "red": 0,
+      "green": 0.5,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Greenyellow",
+      "red": 0.67578125,
+      "green": 0.99609375,
+      "blue": 0.18359375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Honeydew",
+      "red": 0.9375,
+      "green": 0.99609375,
+      "blue": 0.9375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Hotpink",
+      "red": 0.99609375,
+      "green": 0.41015625,
+      "blue": 0.703125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Indianred",
+      "red": 0.80078125,
+      "green": 0.359375,
+      "blue": 0.359375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Indigo",
+      "red": 0.29296875,
+      "green": 0,
+      "blue": 0.5078125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Ivory",
+      "red": 0.99609375,
+      "green": 0.99609375,
+      "blue": 0.9375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Khaki",
+      "red": 0.9375,
+      "green": 0.8984375,
+      "blue": 0.546875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lavender",
+      "red": 0.8984375,
+      "green": 0.8984375,
+      "blue": 0.9765625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lavenderblush",
+      "red": 0.99609375,
+      "green": 0.9375,
+      "blue": 0.95703125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lawngreen",
+      "red": 0.484375,
+      "green": 0.984375,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lemonchiffon",
+      "red": 0.99609375,
+      "green": 0.9765625,
+      "blue": 0.80078125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lightblue",
+      "red": 0.67578125,
+      "green": 0.84375,
+      "blue": 0.8984375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lightcoral",
+      "red": 0.9375,
+      "green": 0.5,
+      "blue": 0.5,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lightcyan",
+      "red": 0.875,
+      "green": 0.99609375,
+      "blue": 0.99609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lightgoldenrodyellow",
+      "red": 0.9765625,
+      "green": 0.9765625,
+      "blue": 0.8203125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lightgrey",
+      "red": 0.82421875,
+      "green": 0.82421875,
+      "blue": 0.82421875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lightgreen",
+      "red": 0.5625,
+      "green": 0.9296875,
+      "blue": 0.5625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lightpink",
+      "red": 0.99609375,
+      "green": 0.7109375,
+      "blue": 0.75390625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lightsalmon",
+      "red": 0.99609375,
+      "green": 0.625,
+      "blue": 0.4765625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lightseagreen",
+      "red": 0.125,
+      "green": 0.6953125,
+      "blue": 0.6640625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lightskyblue",
+      "red": 0.52734375,
+      "green": 0.8046875,
+      "blue": 0.9765625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lightslategray",
+      "red": 0.46484375,
+      "green": 0.53125,
+      "blue": 0.59765625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lightsteelblue",
+      "red": 0.6875,
+      "green": 0.765625,
+      "blue": 0.8671875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lightyellow",
+      "red": 0.99609375,
+      "green": 0.99609375,
+      "blue": 0.875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Lime",
+      "red": 0,
+      "green": 0.99609375,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Limegreen",
+      "red": 0.1953125,
+      "green": 0.80078125,
+      "blue": 0.1953125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Linen",
+      "red": 0.9765625,
+      "green": 0.9375,
+      "blue": 0.8984375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Magenta",
+      "red": 0.99609375,
+      "green": 0,
+      "blue": 0.99609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Maroon",
+      "red": 0.5,
+      "green": 0,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Mediumaquamarine",
+      "red": 0.3984375,
+      "green": 0.80078125,
+      "blue": 0.6640625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Mediumblue",
+      "red": 0,
+      "green": 0,
+      "blue": 0.80078125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Mediumorchid",
+      "red": 0.7265625,
+      "green": 0.33203125,
+      "blue": 0.82421875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Mediumpurple",
+      "red": 0.57421875,
+      "green": 0.4375,
+      "blue": 0.84375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Mediumseagreen",
+      "red": 0.234375,
+      "green": 0.69921875,
+      "blue": 0.44140625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Mediumslateblue",
+      "red": 0.48046875,
+      "green": 0.40625,
+      "blue": 0.9296875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Mediumspringgreen",
+      "red": 0,
+      "green": 0.9765625,
+      "blue": 0.6015625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Mediumturquoise",
+      "red": 0.28125,
+      "green": 0.81640625,
+      "blue": 0.796875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Mediumvioletred",
+      "red": 0.77734375,
+      "green": 0.08203125,
+      "blue": 0.51953125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Midnightblue",
+      "red": 0.09765625,
+      "green": 0.09765625,
+      "blue": 0.4375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Mintcream",
+      "red": 0.95703125,
+      "green": 0.99609375,
+      "blue": 0.9765625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Mistyrose",
+      "red": 0.99609375,
+      "green": 0.890625,
+      "blue": 0.87890625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Moccasin",
+      "red": 0.99609375,
+      "green": 0.890625,
+      "blue": 0.70703125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Navajowhite",
+      "red": 0.99609375,
+      "green": 0.8671875,
+      "blue": 0.67578125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Navy",
+      "red": 0,
+      "green": 0,
+      "blue": 0.5,
+      "alpha": 1
+    },
+
+    {
+      "name": "Oldlace",
+      "red": 0.98828125,
+      "green": 0.95703125,
+      "blue": 0.8984375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Olive",
+      "red": 0.5,
+      "green": 0.5,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Olivedrab",
+      "red": 0.41796875,
+      "green": 0.5546875,
+      "blue": 0.13671875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Orange",
+      "red": 0.99609375,
+      "green": 0.64453125,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Orangered",
+      "red": 0.99609375,
+      "green": 0.26953125,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Orchid",
+      "red": 0.8515625,
+      "green": 0.4375,
+      "blue": 0.8359375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Palegoldenrod",
+      "red": 0.9296875,
+      "green": 0.90625,
+      "blue": 0.6640625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Palegreen",
+      "red": 0.59375,
+      "green": 0.98046875,
+      "blue": 0.59375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Paleturquoise",
+      "red": 0.68359375,
+      "green": 0.9296875,
+      "blue": 0.9296875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Palevioletred",
+      "red": 0.84375,
+      "green": 0.4375,
+      "blue": 0.57421875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Papayawhip",
+      "red": 0.99609375,
+      "green": 0.93359375,
+      "blue": 0.83203125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Peachpuff",
+      "red": 0.99609375,
+      "green": 0.8515625,
+      "blue": 0.72265625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Peru",
+      "red": 0.80078125,
+      "green": 0.51953125,
+      "blue": 0.24609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Pink",
+      "red": 0.99609375,
+      "green": 0.75,
+      "blue": 0.79296875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Plum",
+      "red": 0.86328125,
+      "green": 0.625,
+      "blue": 0.86328125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Powderblue",
+      "red": 0.6875,
+      "green": 0.875,
+      "blue": 0.8984375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Purple",
+      "red": 0.5,
+      "green": 0,
+      "blue": 0.5,
+      "alpha": 1
+    },
+
+    {
+      "name": "Rebeccapurple",
+      "red": 0.3984375,
+      "green": 0.19921875,
+      "blue": 0.59765625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Red",
+      "red": 0.99609375,
+      "green": 0,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Rosybrown",
+      "red": 0.734375,
+      "green": 0.55859375,
+      "blue": 0.55859375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Royalblue",
+      "red": 0.25390625,
+      "green": 0.41015625,
+      "blue": 0.87890625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Saddlebrown",
+      "red": 0.54296875,
+      "green": 0.26953125,
+      "blue": 0.07421875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Salmon",
+      "red": 0.9765625,
+      "green": 0.5,
+      "blue": 0.4453125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Sandybrown",
+      "red": 0.953125,
+      "green": 0.640625,
+      "blue": 0.375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Seagreen",
+      "red": 0.1796875,
+      "green": 0.54296875,
+      "blue": 0.33984375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Seashell",
+      "red": 0.99609375,
+      "green": 0.95703125,
+      "blue": 0.9296875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Sienna",
+      "red": 0.625,
+      "green": 0.3203125,
+      "blue": 0.17578125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Silver",
+      "red": 0.75,
+      "green": 0.75,
+      "blue": 0.75,
+      "alpha": 1
+    },
+
+    {
+      "name": "Skyblue",
+      "red": 0.52734375,
+      "green": 0.8046875,
+      "blue": 0.91796875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Slateblue",
+      "red": 0.4140625,
+      "green": 0.3515625,
+      "blue": 0.80078125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Slategray",
+      "red": 0.4375,
+      "green": 0.5,
+      "blue": 0.5625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Snow",
+      "red": 0.99609375,
+      "green": 0.9765625,
+      "blue": 0.9765625,
+      "alpha": 1
+    },
+
+    {
+      "name": "Springgreen",
+      "red": 0,
+      "green": 0.99609375,
+      "blue": 0.49609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Steelblue",
+      "red": 0.2734375,
+      "green": 0.5078125,
+      "blue": 0.703125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Tan",
+      "red": 0.8203125,
+      "green": 0.703125,
+      "blue": 0.546875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Teal",
+      "red": 0,
+      "green": 0.5,
+      "blue": 0.5,
+      "alpha": 1
+    },
+
+    {
+      "name": "Thistle",
+      "red": 0.84375,
+      "green": 0.74609375,
+      "blue": 0.84375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Tomato",
+      "red": 0.99609375,
+      "green": 0.38671875,
+      "blue": 0.27734375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Turquoise",
+      "red": 0.25,
+      "green": 0.875,
+      "blue": 0.8125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Violet",
+      "red": 0.9296875,
+      "green": 0.5078125,
+      "blue": 0.9296875,
+      "alpha": 1
+    },
+
+    {
+      "name": "Wheat",
+      "red": 0.95703125,
+      "green": 0.8671875,
+      "blue": 0.69921875,
+      "alpha": 1
+    },
+
+    {
+      "name": "White",
+      "red": 0.99609375,
+      "green": 0.99609375,
+      "blue": 0.99609375,
+      "alpha": 1
+    },
+
+    {
+      "name": "Whitesmoke",
+      "red": 0.95703125,
+      "green": 0.95703125,
+      "blue": 0.95703125,
+      "alpha": 1
+    },
+
+    {
+      "name": "Yellow",
+      "red": 0.99609375,
+      "green": 0.99609375,
+      "blue": 0,
+      "alpha": 1
+    },
+
+    {
+      "name": "Yellowgreen",
+      "red": 0.6015625,
+      "green": 0.80078125,
+      "blue": 0.1953125,
+      "alpha": 1
+    }
+  ]
+}

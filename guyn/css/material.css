@@ -1,0 +1,153 @@
+:root {
+  --guyn-red: #f44336;
+  --guyn-red-hue: 4.105263157894738;
+  --guyn-red-saturation: 89.62264150943399;
+  --guyn-red-lightness: 58.43137254901961;
+  --guyn-red-red: 244;
+  --guyn-red-green: 67;
+  --guyn-red-blue: 54;
+
+  --guyn-pink: #e91e63;
+  --guyn-pink-hue: 339.60591133004925;
+  --guyn-pink-saturation: 82.18623481781376;
+  --guyn-pink-lightness: 51.56862745098039;
+  --guyn-pink-red: 233;
+  --guyn-pink-green: 30;
+  --guyn-pink-blue: 99;
+
+  --guyn-purple: #9c27b0;
+  --guyn-purple-hue: 291.24087591240874;
+  --guyn-purple-saturation: 63.72093023255814;
+  --guyn-purple-lightness: 42.15686274509804;
+  --guyn-purple-red: 156;
+  --guyn-purple-green: 39;
+  --guyn-purple-blue: 176;
+
+  --guyn-deep-purple: #673ab7;
+  --guyn-deep-purple-hue: 261.6;
+  --guyn-deep-purple-saturation: 51.867219917012456;
+  --guyn-deep-purple-lightness: 47.25490196078431;
+  --guyn-deep-purple-red: 103;
+  --guyn-deep-purple-green: 58;
+  --guyn-deep-purple-blue: 183;
+
+  --guyn-indigo: #3f51b5;
+  --guyn-indigo-hue: 230.84745762711864;
+  --guyn-indigo-saturation: 48.36065573770492;
+  --guyn-indigo-lightness: 47.84313725490196;
+  --guyn-indigo-red: 63;
+  --guyn-indigo-green: 81;
+  --guyn-indigo-blue: 181;
+
+  --guyn-blue: #2196f3;
+  --guyn-blue-hue: 206.57142857142858;
+  --guyn-blue-saturation: 89.74358974358974;
+  --guyn-blue-lightness: 54.11764705882353;
+  --guyn-blue-red: 33;
+  --guyn-blue-green: 150;
+  --guyn-blue-blue: 243;
+
+  --guyn-light-blue: #03a9f4;
+  --guyn-light-blue-hue: 198.67219917012446;
+  --guyn-light-blue-saturation: 97.57085020242916;
+  --guyn-light-blue-lightness: 48.431372549019606;
+  --guyn-light-blue-red: 3;
+  --guyn-light-blue-green: 169;
+  --guyn-light-blue-blue: 244;
+
+  --guyn-cyan: #00bcd4;
+  --guyn-cyan-hue: 186.79245283018867;
+  --guyn-cyan-saturation: 100;
+  --guyn-cyan-lightness: 41.568627450980394;
+  --guyn-cyan-red: 0;
+  --guyn-cyan-green: 188;
+  --guyn-cyan-blue: 212;
+
+  --guyn-teal: #009688;
+  --guyn-teal-hue: 174.4;
+  --guyn-teal-saturation: 100;
+  --guyn-teal-lightness: 29.411764705882355;
+  --guyn-teal-red: 0;
+  --guyn-teal-green: 150;
+  --guyn-teal-blue: 136;
+
+  --guyn-green: #4caf50;
+  --guyn-green-hue: 122.42424242424241;
+  --guyn-green-saturation: 39.44223107569721;
+  --guyn-green-lightness: 49.21568627450981;
+  --guyn-green-red: 76;
+  --guyn-green-green: 175;
+  --guyn-green-blue: 80;
+
+  --guyn-light-green: #8bc34a;
+  --guyn-light-green-hue: 87.76859504132231;
+  --guyn-light-green-saturation: 50.207468879668035;
+  --guyn-light-green-lightness: 52.74509803921569;
+  --guyn-light-green-red: 139;
+  --guyn-light-green-green: 195;
+  --guyn-light-green-blue: 74;
+
+  --guyn-lime: #cddc39;
+  --guyn-lime-hue: 65.52147239263803;
+  --guyn-lime-saturation: 69.95708154506438;
+  --guyn-lime-lightness: 54.313725490196084;
+  --guyn-lime-red: 205;
+  --guyn-lime-green: 220;
+  --guyn-lime-blue: 57;
+
+  --guyn-yellow: #ffeb3b;
+  --guyn-yellow-hue: 53.87755102040817;
+  --guyn-yellow-saturation: 100;
+  --guyn-yellow-lightness: 61.568627450980394;
+  --guyn-yellow-red: 255;
+  --guyn-yellow-green: 235;
+  --guyn-yellow-blue: 59;
+
+  --guyn-amber: #ffc107;
+  --guyn-amber-hue: 45;
+  --guyn-amber-saturation: 100;
+  --guyn-amber-lightness: 51.37254901960784;
+  --guyn-amber-red: 255;
+  --guyn-amber-green: 193;
+  --guyn-amber-blue: 7;
+
+  --guyn-orange: #ff9800;
+  --guyn-orange-hue: 35.76470588235294;
+  --guyn-orange-saturation: 100;
+  --guyn-orange-lightness: 50;
+  --guyn-orange-red: 255;
+  --guyn-orange-green: 152;
+  --guyn-orange-blue: 0;
+
+  --guyn-deep-orange: #ff5722;
+  --guyn-deep-orange-hue: 14.389140271493213;
+  --guyn-deep-orange-saturation: 100;
+  --guyn-deep-orange-lightness: 56.666666666666664;
+  --guyn-deep-orange-red: 255;
+  --guyn-deep-orange-green: 87;
+  --guyn-deep-orange-blue: 34;
+
+  --guyn-brown: #795548;
+  --guyn-brown-hue: 15.918367346938773;
+  --guyn-brown-saturation: 25.38860103626943;
+  --guyn-brown-lightness: 37.84313725490196;
+  --guyn-brown-red: 121;
+  --guyn-brown-green: 85;
+  --guyn-brown-blue: 72;
+
+  --guyn-grey: #9e9e9e;
+  --guyn-grey-hue: 0;
+  --guyn-grey-saturation: 0;
+  --guyn-grey-lightness: 61.96078431372549;
+  --guyn-grey-red: 158;
+  --guyn-grey-green: 158;
+  --guyn-grey-blue: 158;
+
+  --guyn-blue-grey: #607d8b;
+  --guyn-blue-grey-hue: 199.53488372093022;
+  --guyn-blue-grey-saturation: 18.297872340425528;
+  --guyn-blue-grey-lightness: 46.07843137254902;
+  --guyn-blue-grey-red: 96;
+  --guyn-blue-grey-green: 125;
+  --guyn-blue-grey-blue: 139;
+}

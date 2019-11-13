@@ -1,4 +1,4 @@
-const guyn = {
+export default {
   GrayDark: "#3D4348",
 
   Gray: "#5C6368",
@@ -129,5 +129,3 @@ const guyn = {
 
   Black: "#111111"
 };
-
-export default guyn;

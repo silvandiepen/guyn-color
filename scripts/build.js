@@ -1,19 +1,25 @@
-const fs = require('fs');
-const ejs = require('ejs');
-const prettier = require('prettier');
-const helpers = require('./helpers.js');
+const fs = require("fs");
+const ejs = require("ejs");
+const path = require("path");
+const prettier = require("prettier");
+const helpers = require("./helpers.js");
+const args = require("minimist")(process.argv.slice(2));
 
-const colors = require('../src/colors.json');
+const colors = require("../" + args.src);
+
+console.log(path.parse(args.src).name);
+
 const files = [
 	{
-		name: 'css',
-		ext: 'css'
+		name: "css",
+		ext: "css"
 	},
-	{ name: 'javascript', ext: 'js' },
-	{ name: 'less', ext: 'less' },
-	{ name: 'sass', ext: 'scss' },
-	{ name: 'json', ext: 'json' },
-	{ name: 'sketch', ext: 'sketchpalette' }
+	{ name: "javascript", ext: "js" },
+	{ name: "less", ext: "less" },
+	{ name: "sass", ext: "scss" },
+	{ name: "json", ext: "json" },
+	{ name: "sketch", ext: "sketchpalette" },
+	{ name: "bitbar", ext: "sh" }
 ];
 
 let advancedColors = {};
@@ -41,29 +47,35 @@ files.forEach(async (fileType) => {
 
 		let parser = fileType.ext;
 		switch (fileType.ext) {
-			case 'js':
-				parser = 'babel';
+			case "js":
+				parser = "babel";
 				break;
-			case 'sketchpalette':
-				parser = 'json';
+			case "sh":
+				parser = null;
 				break;
-			case 'css':
-			case 'less':
-			case 'scss':
-				parser = 'css';
+			case "sketchpalette":
+				parser = "json";
+				break;
+			case "css":
+			case "less":
+			case "scss":
+				parser = "css";
 				break;
 		}
-		let formattedFile = prettier.format(generatedFile, {
-			parser: parser
-		});
+		let formattedFile = generatedFile;
+		if (parser) {
+			formattedFile = prettier.format(generatedFile, {
+				parser: parser
+			});
+		}
 
 		fs.writeFile(
-			`guyn/${fileType.name}/guyn.${fileType.ext}`,
+			`guyn/${fileType.name}/${path.parse(args.src).name}.${fileType.ext}`,
 			formattedFile,
-			'utf8',
+			"utf8",
 			(err) => {
 				if (err) throw err;
-				console.log(fileType.name, 'file created');
+				console.log(fileType.name, "file created");
 			}
 		);
 	});
